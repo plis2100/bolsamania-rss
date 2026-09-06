@@ -1,9 +1,422 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Bolsamanía — Todas las noticias</title>
     <link>https://www.bolsamania.com/</link>
-    <description>Noticias, mercados, empresas, economía, análisis y criptomonedas de Bolsamanía.</description>
+    <description>Noticias, mercados, empresas, economía, análisis técnico, análisis fundamental y criptomonedas publicadas por Bolsamanía.</description>
     <language>es-ES</language>
+    <lastBuildDate>Sun, 06 Sep 2026 07:53:56 +0000</lastBuildDate>
+    <generator>GitHub Actions</generator>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados/avecina-semana-alto-voltaje-bce-ipc-eeuu-indite-oracle-bajo-focos--23484656.html</guid>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
+      <title> Se avecina una semana de alto voltaje: BCE, IPC de EEUU, Inditex y Oracle bajo los focos </title>
+      <description>La próxima semana estará marcada por la política monetaria y la inflación, con el jueves y el viernes concentrando buena parte de los catalizadores. El Banco Central Europeo celebrará el jueves su reunión de septiembre y el mercado prevé una subida de 25 puntos básicos, hasta situar la facilidad de depósito en el 2,50%, después de que la inflación de la eurozona alcanzara el 3,3% en agosto.  </description>
+      <content:encoded> &lt;p&gt;Apenas 24 horas después llegará el &lt;strong&gt;IPC de Estados Unidos&lt;/strong&gt;, una referencia especialmente sensible para las expectativas sobre la Reserva Federal. Antes, el &lt;strong&gt;PIB de la eurozona y de Japón,&lt;/strong&gt; y los &lt;strong&gt;precios y el comercio exterior de China&lt;/strong&gt; completarán el mapa macroeconómico.&lt;/p&gt;
+&lt;p&gt;En el terreno empresarial, &lt;strong&gt;Inditex&lt;/strong&gt; será la gran referencia española, mientras &lt;strong&gt;Oracle y Adobe&lt;/strong&gt; tomarán el relevo en Wall Street.&lt;/p&gt;
+&lt;h4&gt;REUNIÓN CLAVE DEL BCE&lt;/h4&gt;
+&lt;p&gt;Europa abrirá la semana el lunes con una primera fotografía del crecimiento. La lectura final del &lt;strong&gt;PIB de la eurozona del segundo trimestre&lt;/strong&gt; podría confirmar una aceleración hasta el 0,4% trimestral, frente al estancamiento registrado durante los tres primeros meses del año. Junto al crecimiento se conocerá la &lt;strong&gt;evolución del empleo&lt;/strong&gt;, para la que se proyecta un avance del 0,1%, y la &lt;strong&gt;confianza inversora Sentix&lt;/strong&gt; de septiembre. Alemania publicará además su &lt;strong&gt;producción industrial de julio.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El martes, la atención se trasladará al sector exterior con las &lt;strong&gt;balanzas comerciales de Alemania y Francia&lt;/strong&gt;. En junio, la economía alemana registró un superávit de 15.400 millones de euros, mientras Francia presentó un déficit de 5.800 millones.&lt;/p&gt;
+&lt;p&gt;El miércoles será una jornada más ligera, con la &lt;strong&gt;producción industrial francesa&lt;/strong&gt; de julio como principal referencia europea.&lt;/p&gt;
+&lt;p&gt;Todo desembocará el jueves en el acontecimiento de mayor relevancia de la semana: la &lt;strong&gt;decisión de tipos del Banco Central Europeo&lt;/strong&gt;. La facilidad de depósito se encuentra actualmente en el 2,25% y los expertos esperan que el organismo eleve el coste del dinero en 25 puntos básicos, hasta el 2,50%, después de que la inflación de la eurozona alcanzara el 3,3% interanual en agosto.&lt;/p&gt;
+&lt;p&gt;La propia subida, sin embargo, será solo una parte del examen. El mercado da por descontado ese incremento de un cuarto de punto y la atención se desplazará hacia las &lt;strong&gt;señales que ofrezca la institución sobre los siguientes movimientos y sobre la posibilidad de que el 2,50% marque el techo del actual ciclo de subidas&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;El jueves también permitirá comprobar el comportamiento de los precios y de la industria europea. Alemania publicará la lectura final del &lt;strong&gt;IPC de agosto&lt;/strong&gt;, cuya primera estimación mostró una aceleración desde el 2,8% hasta el 2,9% interanual. España e Italia darán a conocer sus respectivas&lt;strong&gt; producciones industriales&lt;/strong&gt; de julio.&lt;/p&gt;
+&lt;p&gt;La semana terminará el viernes con Reino Unido como protagonista europeo. Se publicarán la &lt;strong&gt;producción industrial y la balanza comercial de julio&lt;/strong&gt;, después de que la primera retrocediera un 0,2% mensual en junio y el saldo comercial registrara un déficit de 23.070 millones de libras.&lt;/p&gt;
+&lt;h4&gt;EL IPC DE EEUU PONDRÁ A PRUEBA LAS EXPECTATIVAS SOBRE LA FED&lt;/h4&gt;
+&lt;p&gt;Wall Street comenzará la semana más tarde de lo habitual. El lunes será &lt;strong&gt;festivo en Estados Unidos por el Día del Trabajo&lt;/strong&gt;, por lo que los mercados permanecerán cerrados y no habrá referencias macroeconómicas estadounidenses relevantes.&lt;/p&gt;
+&lt;p&gt;La actividad regresará el martes con el &lt;strong&gt;índice NFIB de optimismo de las pequeñas empresas de agosto&lt;/strong&gt;, después de alcanzar 99,8 puntos en julio. Singular Bank atribuye aquella mejora a una evolución más favorable de las condiciones económicas actuales y de las expectativas para el próximo año, pese a los elevados costes energéticos y las disrupciones en las cadenas de suministro. La jornada se completará con el &lt;strong&gt;crédito al consumo de julio.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El miércoles dejará únicamente las &lt;strong&gt;solicitudes semanales de hipotecas&lt;/strong&gt; antes de que la agenda estadounidense dé un salto de intensidad el jueves. Ese día se publicará el &lt;strong&gt;índice de precios de producción de agosto&lt;/strong&gt;, que parte de un incremento interanual del 4,7% en julio. La evolución de los precios mayoristas será especialmente relevante como antesala del IPC y en un escenario que los analistas vinculan al encarecimiento de la energía por las hostilidades entre Estados Unidos e Irán.&lt;/p&gt;
+&lt;p&gt;El jueves también se conocerán las &lt;strong&gt;solicitudes semanales de prestaciones por desempleo, las ventas de viviendas de segunda mano de agosto y la lectura final de los inventarios mayoristas de julio&lt;/strong&gt;. Para la vivienda, el mercado contempla una caída mensual del 1,6%, ligeramente inferior al descenso del 1,7% anterior.&lt;/p&gt;
+&lt;p&gt;El verdadero examen llegará el viernes con el &lt;strong&gt;IPC de Estados Unidos de agosto&lt;/strong&gt;. La inflación se situó en el 3,4% interanual en julio y su evolución será escrutada por los inversores en busca de nuevas pistas sobre las presiones que afronta la economía estadounidense. La referencia cobra especial importancia ante la proximidad de la siguiente decisión de la Reserva Federal, ya que &lt;strong&gt;cualquier sorpresa en los precios puede alterar las expectativas sobre la trayectoria de los tipos.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La semana estadounidense terminará con la lectura preliminar de septiembre de la &lt;strong&gt;confianza del consumidor de la Universidad de Michigan&lt;/strong&gt;. El indicador había descendido hasta 51,7 puntos, en un contexto que los expertos relacionan con la preocupación de los hogares por las tensiones inflacionistas y el deterioro de las perspectivas económicas.&lt;/p&gt;
+&lt;h4&gt;CHINA MEDIRÁ LOS PRECIOS Y JAPÓN REVISARÁ SU CRECIMIENTO&lt;/h4&gt;
+&lt;p&gt;Asia-Pacífico concentrará sus principales referencias entre el martes y el miércoles. Japón abrirá el martes con la lectura final del &lt;strong&gt;PIB del segundo trimestre&lt;/strong&gt;. La primera estimación apuntó a una desaceleración del crecimiento hasta el 0,3% trimestral, desde el 0,5% registrado durante los tres primeros meses del ejercicio. El dato permitirá comprobar con mayor precisión el ritmo al que avanza la economía japonesa.&lt;/p&gt;
+&lt;p&gt;Ese mismo martes, China publicará su &lt;strong&gt;balanza comercial de agosto&lt;/strong&gt;, después de registrar un superávit de 112.500 millones de dólares en julio. La referencia ofrecerá una nueva lectura sobre el comportamiento de las exportaciones e importaciones de la segunda economía mundial y, con ello, sobre el pulso del comercio internacional.&lt;/p&gt;
+&lt;p&gt;El miércoles el foco se desplazará hacia los precios chinos. Se conocerán conjuntamente el &lt;strong&gt;IPC y el índice de precios de producción de agosto&lt;/strong&gt;. La inflación al consumidor se situó en el 0,5% interanual en julio, mientras que Singular Bank recoge para los precios de producción una variación interanual del 3,5% el mes anterior. Ambas referencias permitirán completar la fotografía sobre las presiones de precios en China.&lt;/p&gt;
+&lt;h4&gt;INDITEX, ORACLE Y ADOBE TOMARÁN EL RELEVO EMPRESARIAL&lt;/h4&gt;
+&lt;p&gt;La agenda empresarial será relativamente reducida, pero contará con varias compañías capaces de atraer la atención de los inversores. Para el mercado español, el principal acontecimiento llegará el miércoles con los &lt;strong&gt;resultados de Inditex&lt;/strong&gt;, que convertirán a la compañía en una de las grandes referencias corporativas de la semana. Antes, el lunes, &lt;strong&gt;Standard Life&lt;/strong&gt; abrirá el calendario europeo de resultados.&lt;/p&gt;
+&lt;p&gt;El jueves será la jornada más cargada. En España presentará sus cuentas &lt;strong&gt;Atrys Health&lt;/strong&gt;, mientras que en Estados Unidos llegará el turno de &lt;strong&gt;Adobe&lt;/strong&gt;. A ellas se sumará &lt;strong&gt;Oracle&lt;/strong&gt;, que ha fijado para después del cierre de Wall Street la publicación de sus resultados correspondientes al primer trimestre de su ejercicio fiscal 2027. La compañía celebrará posteriormente su conferencia con analistas a las 16:00 horas de la zona central estadounidense.&lt;/p&gt;
+&lt;p&gt;La sesión incluirá también el pago del dividendo de &lt;strong&gt;Aperam, de 0,4250 euros brutos por acción&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;El viernes cerrará el calendario empresarial estadounidense &lt;strong&gt;Kroger&lt;/strong&gt;, poniendo fin a una semana en la que el protagonismo corporativo estará bastante más concentrado que durante el grueso de la temporada de resultados.&lt;/p&gt;
+&lt;p&gt;Detallamos, a continuación, todas estas citas:&lt;/p&gt;
+&lt;h4&gt;LUNES 7 DE SEPTIEMBRE&lt;/h4&gt;
+&lt;p&gt;- Producción industrial julio Alemania.&lt;/p&gt;
+&lt;p&gt;- Índice Sentix de confianza del inversor septiembre eurozona.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- PIB final segundo trimestre eurozona.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Evolución del empleo final segundo trimestre eurozona.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Festivo bursátil en EEUU: Día del Trabajo.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Resultados Europa: Standard Life.&lt;/p&gt;
+&lt;h4&gt;MARTES 8 DE SEPTIEMBRE&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;- PIB final segundo trimestre Japón.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Balanza comercial agosto China.&lt;/p&gt;
+&lt;p&gt;- Balanza comercial julio Alemania.&lt;/p&gt;
+&lt;p&gt;- Balanza comercial julio Francia.&lt;/p&gt;
+&lt;p&gt;- Índice NFIB de optimismo de pequeñas empresas agosto Estados Unidos.&lt;/p&gt;
+&lt;p&gt;- Crédito al consumo julio Estados Unidos.&lt;/p&gt;
+&lt;h4&gt;MIÉRCOLES 9 DE SEPTIEMBRE&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;- IPC agosto China.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Índice de precios de producción agosto China.&lt;/p&gt;
+&lt;p&gt;- Producción industrial julio Francia.&lt;/p&gt;
+&lt;p&gt;- Solicitudes semanales de hipotecas Estados Unidos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Resultados España: Inditex.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;JUEVES 10 DE SEPTIEMBRE&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;- IPC final agosto Alemania.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Producción industrial julio España.&lt;/p&gt;
+&lt;p&gt;- Producción industrial julio Italia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Decisión de tipos de interés BCE.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Solicitudes semanales de prestaciones por desempleo Estados Unidos.&lt;/p&gt;
+&lt;p&gt;- Índice de precios de producción agosto Estados Unidos.&lt;/p&gt;
+&lt;p&gt;- Ventas de viviendas de segunda mano agosto Estados Unidos.&lt;/p&gt;
+&lt;p&gt;- Inventarios mayoristas finales julio Estados Unidos.&lt;/p&gt;
+&lt;p&gt;- Dividendo: Aperam (fecha de pago): 0,4250 euros brutos por acción.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Resultados España: Atrys Health.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- Resultados Estados Unidos: Adobe y Oracle.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;VIERNES 11 DE SEPTIEMBRE&lt;/h4&gt;
+&lt;p&gt;- Producción industrial julio Reino Unido.&lt;/p&gt;
+&lt;p&gt;- Balanza comercial julio Reino Unido.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- IPC agosto Estados Unidos.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;- Confianza del consumidor preliminar Universidad de Michigan septiembre Estados Unidos.&lt;/p&gt;
+&lt;p&gt;- Resultados Estados Unidos: Kroger.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img1.s3wfg.com/web/img/images_uploaded/e/8/img_20260904_ts.jpg" type="image/jpeg" length="379697" />
+      <link>https://www.bolsamania.com/noticias/mercados/avecina-semana-alto-voltaje-bce-ipc-eeuu-indite-oracle-bajo-focos--23484656.html</link>
+      <author>redaccion@bolsamania.com (Carlos Suárez)</author>
+      <category>Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/analisis-tecnico/cinco-valores-que-se-deben-tener-muy-en-cuenta-por-tecnico-este-lunes--23486192.html</guid>
+      <pubDate>Sun, 06 Sep 2026 06:00:00 +0200</pubDate>
+      <title> Cinco valores que se deben tener muy en cuenta por técnico este lunes </title>
+      <description>Endesa sigue siendo un valor que no perdemos de vista. </description>
+      <content:encoded> &lt;p&gt;La eléctrica se mantiene cotizando en las inmediaciones de los máximos históricos. Muy pendientes de la aparición de una señal de fortaleza que nos haga pensar en una toma de posiciones. La resistencia a vigilar se encuentra en los 42,67 euros.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img5.s3wfg.com/web/img/images_uploaded/4/4/c040926endesa.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c040926endesa" src="https://img5.s3wfg.com/web/img/images_uploaded/4/4/c040926endesa.png" alt="c040926endesa" data-id="5916018" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mapfre&lt;/strong&gt; se acerca a los máximos anuales. Su aspecto técnico es muy bueno, y lo será aún más si al fina consigue superar la resistencia de los 4,616 euros, máximos históricos.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img6.s3wfg.com/web/img/images_uploaded/6/f/c040926mapfre.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c040926mapfre" src="https://img6.s3wfg.com/web/img/images_uploaded/6/f/c040926mapfre.png" alt="c040926mapfre" data-id="5915998" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Inditex&lt;/strong&gt; no se separa de los máximos históricos. Su aspecto técnico es muy bueno y todo parece indicarnos que podríamos acabar viendo una señal de fortaleza que nos haga pensar en una extensión de las subidas. La resistencia clave se encuentra en los 59,42 euros.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img4.s3wfg.com/web/img/images_uploaded/0/4/c040926itx.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c040926itx" src="https://img4.s3wfg.com/web/img/images_uploaded/0/4/c040926itx.png" alt="c040926itx" data-id="5916020" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Magnífico aspecto técnico en &lt;strong&gt;ArcelorMittal&lt;/strong&gt;, que consigue poner fin a la consolidación de las últimas sesiones tras la superación de la resistencia de los 65,36 euros, máximos anuales. Su aspecto técnico es muy bueno y parece muy probable que podamos acabar viendo una extensión de las subidas hasta el nivel de los 70 euros.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img5.s3wfg.com/web/img/images_uploaded/f/3/c040926arcelor.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c040926arcelor" src="https://img5.s3wfg.com/web/img/images_uploaded/f/3/c040926arcelor.png" alt="c040926arcelor" data-id="5916012" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acerinox&lt;/strong&gt; tiene la mirada puesta en los máximos históricos situados en los 18,58 euros, tras perforar la resistencia del corto plazo que presenta en los 18,21 euros. Sin duda, es un valor a tener muy en cuenta en las próximas sesiones.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img.s3wfg.com/web/img/images_uploaded/5/b/c040926acx.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c040926acx" src="https://img.s3wfg.com/web/img/images_uploaded/5/b/c040926acx.png" alt="c040926acx" data-id="5916010" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;iframe src="https://bolsamania.com/module/5561" width="420" height="125"&gt;&lt;/iframe&gt;&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img5.s3wfg.com/web/img/images_uploaded/5/2/broker714.gif" type="image/gif" length="173331" />
+      <link>https://www.bolsamania.com/noticias/analisis-tecnico/cinco-valores-que-se-deben-tener-muy-en-cuenta-por-tecnico-este-lunes--23486192.html</link>
+      <author>redaccion@bolsamania.com (César Nuez)</author>
+      <category>Análisis técnico</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/repsol-no-se-cansa-subir-vuelve-liderar-ibex-indra-se-lleva-peor-parte--23491200.html</guid>
+      <pubDate>Sat, 05 Sep 2026 11:52:30 +0200</pubDate>
+      <title> Repsol no se cansa de subir y vuelve a liderar el Ibex; Indra se lleva la peor parte </title>
+      <description>El Ibex 35 ha capeado una semana difícil, manteniéndose prácticamente plano. Nuestro selectivo cerró este viernes en los 20.050 puntos tras avanzar un mínimo 0,04% en el conjunto de las últimas cinco sesiones y aferrándose así a la barrera de los 20.000 pese a la presión ejercida por los bonos y el petróleo. </description>
+      <content:encoded> &lt;p&gt;Desde el &lt;strong&gt;punto de vista técnico&lt;/strong&gt;, las perspectivas continúan siendo favorables. Así, tal y como explica César Nuez, experto de Bolsamanía, la&lt;strong&gt; &lt;a href="https://www.bolsamania.com/noticias/analisis-tecnico/el-ibex-encuentra-apoyo-en-su-camino-hacia-los-maximos--23486510.html" rel="noopener noreferrer" target="_blank"&gt;tendencia de fondo del índice nacional sigue siendo claramente alcista&lt;/a&gt;.&lt;/strong&gt; No obstante, aún tiene un obstáculo por superar,los &lt;strong&gt;20.202 puntos&lt;/strong&gt;. Perforar esta cota podría abrir la puerta a una extensión de las ganancias hasta los &lt;strong&gt;20.356,50 puntos, máximos históricos&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Por debajo, la referencia que conviene no perder de vista está en los &lt;strong&gt;19.500 puntos&lt;/strong&gt;. Un abandono de este soporte deterioraría el escenario de corto plazo y podría llevar al Ibex a buscar los &lt;strong&gt;19.000 puntos.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;REPSOL Y ARCELORMITTAL LIDERAN LAS SUBIDAS&lt;/h4&gt;
+&lt;p&gt;En este escenario de equilibrio para el selectivo, las diferencias entre sus componentes han sido importantes. &lt;strong&gt;Repsol ha sido el mejor valor de la semana, con una subida del 4,29%&lt;/strong&gt;, hasta los 27,74 euros, impulsada por el repunte del petróleo.&lt;/p&gt;
+&lt;p&gt;La petrolera mantiene además un &lt;strong&gt;excelente aspecto técnico&lt;/strong&gt;. Tras apoyarse cerca de los 26 euros, Nuez considera que podría intentar superar sus &lt;a href="https://www.bolsamania.com/noticias/analisis-tecnico/repsol-no-da-ni-la-menor-senal-de-fatiga--23442408.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;máximos históricos, situados en los 28,42 euros&lt;/strong&gt;&lt;/a&gt;. Por encima de esta barrera entraría en subida libre y podría dirigirse hacia los &lt;strong&gt;31 euros e incluso los 33 euros&lt;/strong&gt;. Sus acciones acumulan ya una &lt;strong&gt;revalorización superior al 30% desde finales de junio.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El buen momento del título también encuentra respaldo fundamental. &lt;a href="https://www.bolsamania.com/noticias/analisis-fundamental/rbc-sube-precio-repsol-mejora-previsiones-fortaleza-margen-refino--23470536.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;RBC elevó en estos días su precio objetivo desde 35 hasta 38 euros&lt;/strong&gt;&lt;/a&gt; y reiteró su recomendación de 'sobreponderar', apoyándose especialmente en la &lt;strong&gt;fortaleza del margen de refino.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Muy cerca se ha situado &lt;strong&gt;ArcelorMittal, que ha avanzado un 4,06%&lt;/strong&gt;. &lt;a href="https://www.bolsamania.com/noticias/empresas/deutsche-bbank-mejora-precio-arcelormittal-acerinox-ultimas-medidas-ue--23485176.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;Deutsche Bank reiteró ayer su consejo de 'compra'&lt;/strong&gt;&lt;/a&gt;, elevando su precio objetivo &lt;strong&gt;desde 66 hasta 71 euros&lt;/strong&gt; tras las nuevas medidas de salvaguardia de la Unión Europea. Además, desde el prima gráfico, la superación de los 65,36 euros ha puesto fin a su última consolidación y abre la posibilidad de un &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/analisis-tecnico/arcelormittal-y-dos-valores-mas-que-han-perforado-resistencias-este-viernes--23486234.html" rel="noopener noreferrer" target="_blank"&gt;nuevo tramo alcista hasta los 70 euros.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;LA BANCA VUELVE A SACAR MÚSCULO&lt;/h4&gt;
+&lt;p&gt;La banca ha ocupado asimismo buena parte de las primeras posiciones. &lt;strong&gt;CaixaBank ha ganado un 2,81%, Sabadell un 2,75%, Unicaja un 2,53%, BBVA un 1,40%, Santander un 1,26% y Bankinter un 1,20%&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;El sector se ha beneficiado de un escenario en el que&lt;a href="https://www.bolsamania.com/noticias/mercados/santander-bbva-sabadell-que-bancos-ganan-mas-nueva-curva-tipos--23443048.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt; la curva de tipos vuelve a ganar pendiente&lt;/strong&gt;&lt;/a&gt;. El mayor repunte de las rentabilidades en los vencimientos largos puede favorecer los márgenes de intermediación, especialmente en las entidades con una mayor exposición al mercado español, aunque un encarecimiento excesivo de la financiación podría acabar perjudicando la demanda de crédito.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acerinox&lt;/strong&gt;, con un avance semanal del 2,74%, ha completado el grupo de valores más destacados. Al igual que ArcelorMittal, se ha visto respaldada por las mejores perspectivas para el acero europeo. De hecho,&lt;strong&gt; Deutsche Bank ha aumentado ligeramente su precio objetivo hasta los 20,50 euros, manteniendo su consejo de 'compra'.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;INDRA SE LLEVA LA PEOR PARTE&lt;/h4&gt;
+&lt;p&gt;En el extremo contrario aparece &lt;strong&gt;Indra, que ha sido el peor valor del Ibex esta semana tras caer un 5,12%&lt;/strong&gt;, hasta los 59,30 euros. Técnicamente, el título ha dado una &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/analisis-tecnico/solaria-y-dos-valores-mas-que-han-perforado-soportes-este-miercoles--23456998.html" rel="noopener noreferrer" target="_blank"&gt;señal de debilidad a corto plazo al perder el soporte de los 59,92 euros.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Su tendencia principal, sin embargo, continúa siendo claramente alcista. Nuez sitúa en los 55 euros, donde discurre la media de 200 sesiones, una referencia importante desde la que p&lt;strong&gt;odría intentar reconstruirse para volver a atacar los máximos históricos de 66 euros.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;También ha destacado negativamente &lt;strong&gt;Acciona, con un descenso del 4,15%&lt;/strong&gt;, mientras que &lt;strong&gt;Solaria&lt;/strong&gt; ha cedido un 3,33%. Esta última está tanteando el soporte de los 16,704 euros y su comportamiento invita a la prudencia: &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/analisis-tecnico/solaria-y-dos-valores-mas-que-han-perforado-soportes-este-miercoles--23456998.html" rel="noopener noreferrer" target="_blank"&gt;su pérdida podría confirmar el final del rebote de corto plazo y favorecer una continuación de los descensos.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rovi y Endesa&lt;/strong&gt;, ambas con caídas del 2,55%, &lt;strong&gt;Aena&lt;/strong&gt; (-2,27%) y &lt;strong&gt;Cellnex&lt;/strong&gt; (-2,21%) se han situado igualmente en el furgón de cola de una semana en la que &lt;strong&gt;el Ibex apenas se ha movido, pero en la que las diferencias entre ganadores y perdedores han sido mucho más pronunciadas&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img6.s3wfg.com/web/img/images_uploaded/2/2/vs_20260904_vs.jpg"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="vs 20260904 vs" src="https://img6.s3wfg.com/web/img/images_uploaded/2/2/vs_20260904_vs.jpg" alt="vs 20260904 vs" data-id="5916044" /&gt;
+&lt;figcaption&gt;Variaciones semanales Ibex 35&lt;/figcaption&gt;
+&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt; </content:encoded>
+      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/0/2/vs_vs_img_20260904.jpg" type="image/jpeg" length="290786" />
+      <link>https://www.bolsamania.com/noticias/empresas/repsol-no-se-cansa-subir-vuelve-liderar-ibex-indra-se-lleva-peor-parte--23491200.html</link>
+      <author>redaccion@bolsamania.com (Carlos Suárez)</author>
+      <category>Empresas</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/analisis-tecnico/tres-valores-ibex-comenzar-vuelta-cole-buen-pie--23484532.html</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <title> Tres valores del Ibex con los que comenzar la vuelta al cole con 'buen pie' </title>
+      <description>Naturgy es uno de los valores del Ibex que mejores perspectivas técnicas ofrece del Ibex 35. </description>
+      <content:encoded> &lt;p&gt;La compañía lleva más de un mes cotizando en una banda lateral a la espera de la aparición de una señal de fortaleza que nos haga pensar en el comienzo de un nuevo impulso alcista. Para las próximas sesiones estaremos &lt;strong&gt;muy pendientes de un cierre por encima de los 30,04 euros.&lt;/strong&gt; Esta sería la señal que le permitiría moverse en subida libre, con el camino despejado para que podamos ver una &lt;strong&gt;extensión de su escalada hasta el nivel de los 33 euros.&lt;/strong&gt; Los buenos niveles de acumulación dan consistencia a su tendencia alcista principal. No apreciaremos una señal de debilidad mientras que se mantenga cotizando por encima de los 28,26 euros, primer nivel de soporte.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img4.s3wfg.com/web/img/images_uploaded/d/6/050926naturgy.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="050926naturgy" src="https://img4.s3wfg.com/web/img/images_uploaded/d/6/050926naturgy.png" alt="050926naturgy" data-id="5915844" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Banco Santander&lt;/strong&gt; ofrece un magnífico aspecto técnico. El mes de agosto se lo ha pasado dando forma a una figura de continuación alcista, concretamente un &lt;strong&gt;throw back al nivel de los 12 euros&lt;/strong&gt;. La proximidad a los máximos históricos nos hace estar muy pendientes de la aparición de una señal de fortaleza que nos haga pensar en el comienzo de un nuevo impulso alcista. &lt;strong&gt;La resistencia clave se encuentra en los 13,12 euros.&lt;/strong&gt; Un cierre por encima de estos niveles le dejaría en subida libre, con el camino libre para que podamos acabar viendo una extensión de las subidas hasta el nivel de los 14,50 euros.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img.s3wfg.com/web/img/images_uploaded/4/6/050926santander.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="050926santander" src="https://img.s3wfg.com/web/img/images_uploaded/4/6/050926santander.png" alt="050926santander" data-id="5915846" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ArcelorMittal&lt;/strong&gt; es un valor que viene ofreciendo un magnífico aspecto técnico. La compañía lleva unas semanas consolidando niveles dentro de una tendencia alcista principal muy pronunciada. &lt;strong&gt;Ahora mismo se encuentra atacando la resistencia clave del largo plazo que presenta en los 66,30 euros, niveles de 2010.&lt;/strong&gt; Muy pendientes a la aparición de una señal de fortaleza por estos precios, ya que confirmaría el &lt;strong&gt;inicio de un nuevo impulso alcista que nos haría pensar en una extensión de las subidas hasta el nivel de los 80 euros.&lt;/strong&gt; Los buenos niveles de acumulación dan consistencia a su tendencia alcista actual. Por debajo, el primer nivel de soporte se encuentra en los 59,34 euros, parte baja de la actual banda lateral de consolidación. No apreciaremos una señal de debilidad mientras que se mantenga cotizando por encima de este nivel de precios.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img5.s3wfg.com/web/img/images_uploaded/3/6/050926mts.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="050926mts" src="https://img5.s3wfg.com/web/img/images_uploaded/3/6/050926mts.png" alt="050926mts" data-id="5915842" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;iframe src="https://bolsamania.com/module/5561" width="420" height="125"&gt;&lt;/iframe&gt;&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img4.s3wfg.com/web/img/images_uploaded/c/8/ep_archivo_-_foto_de_archivo_paneles_del_ibex_en_el_palacio_de_la_bolsa_de_madrid.jpg" type="image/jpeg" length="77610" />
+      <link>https://www.bolsamania.com/noticias/analisis-tecnico/tres-valores-ibex-comenzar-vuelta-cole-buen-pie--23484532.html</link>
+      <author>redaccion@bolsamania.com (César Nuez)</author>
+      <category>Análisis técnico</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/analistas-aplauden-plan-reestructuracion-volkswagen-gana-realismo--23488820.html</guid>
+      <pubDate>Sat, 05 Sep 2026 06:00:00 +0200</pubDate>
+      <title> Los analistas aplauden el plan de reestructuración de Volkswagen: "Gana el realismo" </title>
+      <description>El plan de reestructuración de Volkswagen parece haber sido bien acogido por los mercados. El fabricante alemán subió este viernes con fuerza después de aprobar con unanimidad su Plan Futuro 2030, una serie de medidas para preservar la competitividad de la compañía en un momento muy complicado. La hoja de ruta, eso sí, contempla importantes sacrificios: la destrucción de 50.000 puestos de trabajo a sumar a los 50.000 anunciados con anterioridad, así como el posible cierre de cuatro fábricas en Alemania y una importante reducción de productos y de la complejidad de la oferta. </description>
+      <content:encoded> &lt;p&gt;Las &lt;strong&gt;desinversiones&lt;/strong&gt; de activos constituyen otro pilar importante: VW pretende simplificar su cartera de participaciones y negocios en aproximadamente un tercio, además de revisar su cartera inmobiliaria. También parece que la familia Porsche habría llegado a un compromiso respecto a un cambio inmediato en la estructura jurídica y de gobierno corporativo.&lt;/p&gt;
+&lt;p&gt;Asimismo, la firma pronostica &lt;strong&gt;unas ventas anuales de 9 millones de vehículos&lt;/strong&gt; "a medida que evolucionen las condiciones del mercado". El principal objetivo financiero es alcanzar un &lt;strong&gt;margen operativo del 9% en 2030&lt;/strong&gt;. Esto equivale a un &lt;strong&gt;resultado operativo de aproximadamente 31.000 millones de euros&lt;/strong&gt;, con &lt;strong&gt;37.000 millones de euros en costes generales&lt;/strong&gt; y un objetivo de &lt;strong&gt;135.000 millones de euros para inversiones de capital, investigación y desarrollo&lt;/strong&gt; durante el periodo de planificación 2027-2031.&lt;/p&gt;
+&lt;p&gt;Para Bank of America (BofA), &lt;strong&gt;el acuerdo "desafía las expectativas" y &lt;a href="https://www.bolsamania.com/noticias/empresas/volkswagen-recorta-previsiones-anuales-despues-trimestre-peor-esperado--23116802.html"&gt;el resultado es "mucho mejor de lo temido"&lt;/a&gt;&lt;/strong&gt;, ya que se esperaba un fuerte enfrentamiento con los representantes de los trabajadores y con el estado de Baja Sajonia, importante accionista del fabricante, que potencialmente podría haber desembocado en acciones legales o en una Junta General Extraordinaria. "En cambio, la dirección ha conseguido la aprobación de las líneas estratégicas fundamentales y ahora puede comenzar a implementar &lt;strong&gt;el mayor programa de transformación de la historia de Volkswagen&lt;/strong&gt;", apuntan estos expertos.&lt;/p&gt;
+&lt;div class="read-more-links"&gt;
+&lt;h5&gt;Noticia relacionada&lt;/h5&gt;
+&lt;a class="readMore" href="https://www.bolsamania.com/noticias/empresas/volkswagen-aprueba-plan-ajuste-50000-despidos-2030-futuro-seat-aire--23483790.html" rel="noopener noreferrer" target="_blank" data-id="23483790"&gt;
+&lt;figure&gt;&lt;img class="lazy" title="Leer más" data-original="https://img6.s3wfg.com/web/img/images_uploaded/a/7/ep_volkswagen_primera_marca_en_recibir_el_premio_volante_de_oro_en_golf_id7_gtx_tayron_y_t-roc_285x185.jpg" data-src="https://img6.s3wfg.com/web/img/images_uploaded/a/7/ep_volkswagen_primera_marca_en_recibir_el_premio_volante_de_oro_en_golf_id7_gtx_tayron_y_t-roc_285x185.jpg" /&gt;&lt;/figure&gt;
+Volkswagen sube tras aprobar su plan de ajuste: 50.000 despidos hasta 2030 con el futuro de Seat en el aire &lt;/a&gt;&lt;/div&gt;
+&lt;p&gt;En concreto, BofA calcula que la reducción de personal estimada supondría &lt;strong&gt;un ahorro de más de 2.500 millones de euros&lt;/strong&gt; anuales para el fabricante alemán, sin tener en cuenta el "potencial adicional" del cierre progresivo de plantas, una menor complejidad y las desinversiones de activos.&lt;/p&gt;
+&lt;p&gt;En este sentido, la principal incertidumbre a corto plazo es &lt;strong&gt;cuándo se contabilizarán las provisiones&lt;/strong&gt; por reestructuración y calculan que los costes brutos podrían alcanzar hasta unos 10.000 millones de euros, aunque &lt;strong&gt;ven "poco probable" que se contabilicen íntegramente en el ejercicio fiscal 2026&lt;/strong&gt; y podrían distribuirse a lo largo de varios años, especialmente si las reducciones de plantilla se llevan a cabo mediante jubilaciones anticipadas. "Si los mayores costes se trasladan al ejercicio fiscal 2027, los beneficios reportados de 2026 y el dividendo podrían ser superiores a lo que actualmente se espera, especialmente si la venta de Everllence se completa antes de diciembre de 2026", señalan desde la firma norteamericana.&lt;/p&gt;
+&lt;p&gt;Citi también celebra una medida que considera &lt;strong&gt;"valiente" para "todas las partes implicadas"&lt;/strong&gt;. Y es que, dada la competitividad de las plantas alemanas de VW y la falta de oportunidades de generación de ingresos a escala global, el gigante bancario estadounidense opina que la compañía "sencillamente no tenía otra opción". &lt;strong&gt;"Gana el realismo. Hemos calificado esta decisión como 'existencial'"&lt;/strong&gt;, subrayan estos expertos, al tiempo que ponen en valor la responsabilidad asumida por el comité de empresa para garantizar la supervivencia del negocio principal de VW en Europa.&lt;/p&gt;
+&lt;p&gt;Por todo ello, BofA reitera su recomendación de &lt;strong&gt;'compra'&lt;/strong&gt; al considerar que estas medidas &lt;a href="https://www.bolsamania.com/noticias/empresas/volkswagen-reestructura-recorte-capacidad-gama-modelos--22978768.html"&gt;&lt;strong&gt;"demuestran que Volkswagen puede reestructurarse"&lt;/strong&gt;&lt;/a&gt;, además de advertir que los inversores no están otorgando "ningún valor" a la capacidad del grupo para alcanzar sus objetivos. También reafirman su precio objetivo de &lt;strong&gt;92&lt;/strong&gt; &lt;strong&gt;euros&lt;/strong&gt;, cifra que le otorga a la enseña germana un potencial alcista cercano al 20% desde los precios actuales.&lt;/p&gt;
+&lt;p&gt;"En nuestra opinión, &lt;strong&gt;Volkswagen sigue siendo la compañía automovilística cotizada más barata del mundo&lt;/strong&gt;, ya que cotiza a tan solo unas 4 veces nuestro PER estimado para 2027-2028. Además, su caja neta del negocio automovilístico (unos 33.000 millones de euros) y sus participaciones en Porsche AG y Traton siguen estando insuficientemente reflejadas en su capitalización bursátil", sentencia.&lt;/p&gt;
+&lt;p&gt;Citi, por su parte, se muestra algo más cauto. Si bien el equipo de analistas reconoce que los objetivos de la compañía son muy ambiciosos, también opina que los inversores "no lo considerarán creíble" &lt;strong&gt;hasta que la compañía consiga "avances positivos adicionales" en los ejercicios 2027 y 2028&lt;/strong&gt;. A ello pueden ayudar los resultados de Audi, Porsche y Traton, todos ellos con margen para mejorar "significativamente". No obstante, la firma llama la atención sobre &lt;strong&gt;las "muy difíciles" condiciones del mercado europeo&lt;/strong&gt; debido a la elevada competencia, especialmente de nuevos fabricantes chinos, además del posible efecto adverso de estos drásticos recortes de su gama de productos, que &lt;strong&gt;podrían provocar más pérdidas de cuota de mercado y volumen&lt;/strong&gt;, aunque sean voluntarias.&lt;/p&gt;
+&lt;p&gt;En este aspecto, Citi considera que la &lt;strong&gt;Unión Europea&lt;/strong&gt; (UE) podría jugar un papel importante. El entorno competitivo en la UE es actualmente un enfrentamiento desigual entre modelos fabricados en China, muy baratos gracias a sus costes marginales subsidiados, y modelos fabricados en la UE que soportan todos los costes regulatorios. No obstante, la UE modificó esta situación relativa en el caso de los vehículos eléctricos de batería (BEV) mediante los aranceles introducidos en 2024, y Citi espera que haga lo mismo con los vehículos híbridos. También serán importantes las propuestas de la &lt;strong&gt;Ley de Aceleración Industrial (IAA)&lt;/strong&gt; para garantizar que la producción local en China cumpla las normativas de la UE y contribuya a igualar las condiciones competitivas.&lt;/p&gt;
+&lt;p&gt;"Aunque Volkswagen sigue siendo &lt;strong&gt;extremadamente barata bajo cualquier métrica de largo plazo&lt;/strong&gt; &amp;mdash;especialmente teniendo en cuenta los cuatro negocios que no forman parte del negocio principal de VW&amp;mdash;, no esperamos que el sentimiento de los inversores cambie de la noche a la mañana. Sin embargo, Volkswagen &lt;strong&gt;ha vuelto a demostrar que es 'invertible'&lt;/strong&gt; y que la dirección puede utilizar sus herramientas estratégicas para hacer frente a las actuales presiones macroeconómicas y competitivas", sentencian estos expertos, que reafirman su recomendación de 'compra' y pronostican una "clara" mejora de las estimaciones de rentabilidad y flujo de caja libre a largo plazo.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/0/9/ep_volkswagen_idpolo_20260729123804.jpg" type="image/jpeg" length="123940" />
+      <link>https://www.bolsamania.com/noticias/empresas/analistas-aplauden-plan-reestructuracion-volkswagen-gana-realismo--23488820.html</link>
+      <author>redaccion@bolsamania.com (Álvaro Estévez)</author>
+      <category>Empresas</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/cierre-en-wall-street-dow-jones--055-sp-500--038-y-nasdaq--029--23492304.html</guid>
+      <pubDate>Fri, 04 Sep 2026 22:06:45 +0200</pubDate>
+      <title> Cierre en Wall Street: Dow Jones (-0,55%) S&amp;P 500 (-0,38%) y Nasdaq (-0,29%) </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="123940" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/cierre-en-wall-street-dow-jones--055-sp-500--038-y-nasdaq--029--23492304.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-autodesk--762-y-adobe--605-son-los-valores-que-mas-retroceden--23491716.html</guid>
+      <pubDate>Fri, 04 Sep 2026 21:22:59 +0200</pubDate>
+      <title> Nasdaq: Autodesk (-7,62%) y Adobe (-6,05%) son los valores que más retroceden </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="123940" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-autodesk--762-y-adobe--605-son-los-valores-que-mas-retroceden--23491716.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-asteralabs-1053-y-sandisk-1009-son-los-valores-que-mas-evolucionan--23491710.html</guid>
+      <pubDate>Fri, 04 Sep 2026 21:21:26 +0200</pubDate>
+      <title> Nasdaq: AsteraLabs (+10,53%) y  Sandisk (+10,09%) son los valores que más evolucionan </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="123940" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-asteralabs-1053-y-sandisk-1009-son-los-valores-que-mas-evolucionan--23491710.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--057-sp-500--046-y-nasdaq--036--23491700.html</guid>
+      <pubDate>Fri, 04 Sep 2026 21:20:24 +0200</pubDate>
+      <title> Wall Street: Dow Jones (-0,57%) S&amp;P 500 (-0,46%) y Nasdaq (-0,36%) </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="123940" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--057-sp-500--046-y-nasdaq--036--23491700.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados/wall-street-viernes-04-septiembre-2026-informe-empleo--23486720.html</guid>
+      <pubDate>Fri, 04 Sep 2026 20:15:05 +0200</pubDate>
+      <title> Wall Street reacciona con caídas al sorprendente dato de empleo de EEUU </title>
+      <description>Wall Street registra caídas este viernes en sus tres principales indicadores tras el sorprendente informe de empleo de Estados Unidos de agosto, que ha mostrado un dato de empleo mucho mayor del esperado y ha generado 162.000 empleos en agosto, 107.000 más que los esperados por el mercado.
+  </description>
+      <content:encoded> &lt;p&gt;Este dato &lt;strong&gt;podría variar la balanza hacia una posible subida de tipos por parte de la Fed en la reunión de septiembre.&lt;/strong&gt; Por el momento, la decisión de elevar los tipos ya cuenta con un &lt;strong&gt;60,2% de probabilidades según la herramienta FedWatch.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Hoy se ha publicado un sólido informe de empleo de EE. UU. de agosto que hace que una subida de tipos de la Fed en septiembre &lt;strong&gt;parezca un poco más probable&lt;/strong&gt;", han explicado el analista de ING James Knigthley, quien ha indicado que "no sorprende" que el mercado haya pasado a cotizar 16 puntos básicos de una subida de tipos de 25 puntos básicos, al alza desde los 12,5 puntos básicos de ayer, tras los comentarios relativamente moderados del gobernador de la Fed, Waller, en los que sugirió que &lt;strong&gt;un dato de inflación bajo podría llevarle a votar por mantener la política estable&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Para Knigthley el informe de IPC del próximo viernes &lt;strong&gt;será realmente el factor decisivo&lt;/strong&gt;, y el aumento del 0,4% mes a mes en los precios generales y un incremento del 0,2% en el núcleo (excluyendo alimentos y energía), que es lo que tanto nosotros como el consenso prevemos, &lt;strong&gt;probablemente no sea lo suficientemente bajo como para evitar que Warsh impulse al resto del FOMC hacia una subida de tipos&lt;/strong&gt;.&lt;/p&gt;
+&lt;div class="read-more-links"&gt;
+&lt;h5&gt;Noticia relacionada&lt;/h5&gt;
+&lt;a class="readMore" href="https://www.bolsamania.com/noticias/mercados/bofa-avisa-subida-tipos-fed-podria-provocar-caida-5-bolsas-europeas--23485562.html" rel="noopener noreferrer" target="_blank" data-id="23485562"&gt;
+&lt;figure&gt;&lt;img class="lazy" title="Leer más" data-original="https://img3.s3wfg.com/web/img/images_uploaded/c/0/kevin_warsh_fed_0626_2_285x185.jpg" data-src="https://img3.s3wfg.com/web/img/images_uploaded/c/0/kevin_warsh_fed_0626_2_285x185.jpg" /&gt;&lt;/figure&gt;
+BofA avisa: una subida de tipos de la Fed podría provocar una caída del 5% en las bolsas europeas &lt;/a&gt;&lt;/div&gt;
+&lt;h3&gt;CON LA MIRA EN LOS BONOS&lt;/h3&gt;
+&lt;p&gt;Más allá del empleo,&lt;strong&gt; los inversores seguirán de cerca la evolución de los bonos,&lt;/strong&gt; después de que sus rentabilidades se hayan disparado a lo largo de la semana a máximos de las últimas décadas ante los renovados temores inflacionarios que proceden de Irán, a pesar de que este jueves dieron un respiro y permitieron un rebote en la renta variable.&lt;/p&gt;
+&lt;p&gt;"En general, la atención de los inversores se ha desplazado claramente de los sólidos resultados empresariales de principios de verano al aumento de los precios del petróleo crudo en septiembre. Esto último impulsó las expectativas de inflación y elevó los rendimientos de los bonos. &lt;strong&gt;El vertiginoso aumento de los niveles de deuda en Estados Unidos&lt;/strong&gt; &amp;mdash;y otros mercados desarrollados&amp;mdash; avivó aún más la situación, afectando especialmente al tramo largo de la curva de rendimiento", comenta &lt;strong&gt;Ipek Ozkardeskaya, analista de Swissquote Bank.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;No obstante, recuerda que "&lt;strong&gt;los rendimientos globales han bajado ligeramente en las últimas sesiones&lt;/strong&gt;, debido a un leve retroceso en los precios del petróleo y a unas expectativas menos optimistas por parte de la Reserva Federal".&lt;/p&gt;
+&lt;p&gt;"Sin embargo, el petróleo ha vuelto a subir, y dado que lograr una bajada sostenible de los precios del petróleo llevará tiempo &amp;mdash;si no se resuelve rápidamente la crisis en Oriente Medio&amp;mdash;, &lt;strong&gt;la mejor opción para que los partidarios de una política monetaria expansiva de la Reserva Federal&lt;/strong&gt; retomen su postura y reduzcan los rendimientos de forma más significativa en Estados Unidos es unas cifras de empleo más bajas", valora.&lt;/p&gt;
+&lt;h3&gt;OTROS MERCADOS&lt;/h3&gt;
+&lt;p&gt;En &lt;strong&gt;otros mercados,&lt;/strong&gt; el petróleo West Texas cae un 2% ($89,49) y el Brent un 1,81% ($93,76). Por su parte, el euro cae ligeramente ($1,162), y la onza de oro cae un 1,75% ($4.458).&lt;/p&gt;
+&lt;p&gt;La&lt;strong&gt; rentabilidad del bono americano a 10 años&lt;/strong&gt; sube al 4,768% y el bitcoin se deja un 2,34% ($79.647).&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/b/9/wall_street_20260316112410.jpg" type="image/jpeg" length="298015" />
+      <link>https://www.bolsamania.com/noticias/mercados/wall-street-viernes-04-septiembre-2026-informe-empleo--23486720.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-lululemon-athletica--1733-y-fair-isaac--1587-son-los-valores-que-mas-retroceden--23491286.html</guid>
+      <pubDate>Fri, 04 Sep 2026 20:09:29 +0200</pubDate>
+      <title> S&amp;P 500: lululemon athletica (-17,33%) y Fair Isaac (-15,87%) son los valores que más retroceden </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="298015" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-lululemon-athletica--1733-y-fair-isaac--1587-son-los-valores-que-mas-retroceden--23491286.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-sandisk-103-y-super-micro-computer-724-son-los-valores-que-mas-crecen--23491276.html</guid>
+      <pubDate>Fri, 04 Sep 2026 20:07:56 +0200</pubDate>
+      <title> S&amp;P 500: Sandisk (+10,3%) y Super Micro Computer (+7,24%) son los valores que más crecen </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="298015" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-sandisk-103-y-super-micro-computer-724-son-los-valores-que-mas-crecen--23491276.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--054-sp-500--050-y-nasdaq--050--23491256.html</guid>
+      <pubDate>Fri, 04 Sep 2026 20:06:18 +0200</pubDate>
+      <title> Wall Street: Dow Jones (-0,54%) S&amp;P 500 (-0,50%) y Nasdaq (-0,50%) </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="298015" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--054-sp-500--050-y-nasdaq--050--23491256.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/cimic-acs-impulsara-red-australiana-almacenamiento-liquidos--23490728.html</guid>
+      <pubDate>Fri, 04 Sep 2026 19:23:29 +0200</pubDate>
+      <title> Cimic (ACS) impulsará la red australiana de almacenamiento de líquidos </title>
+      <description>Cimic, filial de ACS, se ha adjudicado de un contrato plurianual de Quantem, uno de los principales proveedores independientes de infraestructuras de almacenamiento de líquidos a granel, para prestar servicios integrados de ingeniería y gestión de activos en toda su red de terminales en Australia. </description>
+      <content:encoded> &lt;p&gt; &lt;/p&gt;
+&lt;p&gt;El contrato dará soporte a nueve terminales de almacenamiento de líquidos a granel, contribuyendo a garantizar el almacenamiento &lt;strong&gt;y la distribución seguros de combustibles, productos químicos&lt;/strong&gt; y otras materias esenciales en todo el país.&lt;/p&gt;
+&lt;p&gt;En el marco de este acuerdo, la empresa prestará servicios integrales de ingeniería, aprovisionamiento y gestión de la construcción (EPCM) par&lt;strong&gt;a las instalaciones terminales de Quantem.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;"Quantem cuenta con &lt;strong&gt;una capacidad de almacenamiento conjunta superior a los 677.000 metros cúbicos&lt;/strong&gt; y desempeña un papel relevante en el almacenamiento y la distribución de combustibles, productos químicos y otras materias esenciales, contribuyendo a la seguridad energética y a la resiliencia de la cadena de suministro en Australia y Nueva Zelanda", explica.&lt;/p&gt;
+&lt;p&gt;Está previsto que los trabajos comiencen&lt;strong&gt; en noviembre de 2026.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt; </content:encoded>
+      <enclosure url="http://img.s3wfg.com/web/img/images_uploaded/1/5/ep_ugl_empresa_del_grupo_cimic_acs_ha_ganado_un_contrato_plurianual_de_quantem_para_impulsar_la_red.jpg" type="image/jpeg" length="101476" />
+      <link>https://www.bolsamania.com/noticias/empresas/cimic-acs-impulsara-red-australiana-almacenamiento-liquidos--23490728.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Empresas</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-apple--22-y-microsoft--195-son-los-valores-que-mas-retroceden--23490910.html</guid>
+      <pubDate>Fri, 04 Sep 2026 19:04:25 +0200</pubDate>
+      <title> Dow Jones: Apple (-2,2%) y Microsoft (-1,95%) son los valores que más retroceden </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="101476" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-apple--22-y-microsoft--195-son-los-valores-que-mas-retroceden--23490910.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-caterpillar-165-y-nvidia-134-son-los-valores-que-mas-avanzan--23490908.html</guid>
+      <pubDate>Fri, 04 Sep 2026 19:03:15 +0200</pubDate>
+      <title> Dow Jones: Caterpillar (+1,65%) y Nvidia (+1,34%) son los valores que más avanzan </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="101476" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-caterpillar-165-y-nvidia-134-son-los-valores-que-mas-avanzan--23490908.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--048-sp-500--031-y-nasdaq--027--23490906.html</guid>
+      <pubDate>Fri, 04 Sep 2026 19:01:43 +0200</pubDate>
+      <title> Wall Street: Dow Jones (-0,48%) S&amp;P 500 (-0,31%) y Nasdaq (-0,27%) </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="101476" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--048-sp-500--031-y-nasdaq--027--23490906.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/economia/el-consejo-de-politica-fiscal-y-financiera-aprueba-la-reforma-del-sistema-de-financiacion-autonomica--23490676.html</guid>
+      <pubDate>Fri, 04 Sep 2026 18:36:53 +0200</pubDate>
+      <title> Hacienda aprueba la reforma del sistema de financiación autonómica </title>
+      <description>El Consejo de Política Fiscal y Financiera (CPFF) ha aprobado este viernes un acuerdo sobre un nuevo modelo de financiación para las Comunidades Autónomas de régimen común y ciudades con estatuto de autonomía. Este acuerdo, según ha explicado el Ministerio de Hacienda, incrementará los recursos que reciben los territorios en 20.975 millones de euros. </description>
+      <content:encoded> &lt;p&gt;"Se trata de un &lt;strong&gt;acuerdo histórico&lt;/strong&gt;&amp;rdquo;, ha indicado el ministro de Hacienda, Arcadi España, quien ha recordado que el actual sistema de financiación &lt;strong&gt;lleva caducado 12 años&lt;/strong&gt; y su reforma &lt;strong&gt;ha sido reclamada por todas las Comunidades Autónomas&lt;/strong&gt;. En este sentido, España ha señalado que el a&lt;strong&gt;cuerdo aprobado es fruto de un trabajo que se inició ya en 2021&lt;/strong&gt; y que ha contado con múltiples reuniones multilaterales y bilaterales, donde todas las comunidades autónomas han participado.&lt;/p&gt;
+&lt;p&gt;Asimismo, ha defendido que el acuerdo de financiación es&lt;strong&gt; "objetivamente beneficioso" para todas las comunidades&lt;/strong&gt;, que "&lt;strong&gt;obtendrán más recursos&lt;/strong&gt; y, por lo tanto, podrán incrementar la inversión en sanidad, educación, dependencia, servicios sociales o vivienda". Ha incidido también en que el sistema &lt;strong&gt;"garantiza, blinda e incrementa" la solidaridad&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;PRINCIPIOS DEL NUEVO MODELO&lt;/h3&gt;
+&lt;p&gt;El ministerio ha desgranado los nuevos criterios del acuerdo entre los que se incluye un&lt;strong&gt;a nueva propuesta de población ajustada&lt;/strong&gt; que "contempla variables que dan respuesta al reto de la despoblación" e "incorpora una estratificación más precisa de los grupos de población".&lt;/p&gt;
+&lt;p&gt;Así pues, el reparto de los recursos autonómicos se define en &lt;strong&gt;función de las características demográficas, socioeconómicas y geográficas de las comunidades autónomas.&lt;/strong&gt;"Por ejemplo, el gasto sanitario será mayor en una comunidad muy envejecida, mientras que otra comunidad tendrá mayores necesidades en educación si tiene mayor proporción de habitantes en edad escolar", explica el ministerio.&lt;/p&gt;
+&lt;p&gt;Por otra parte, el acuerdo incluye un&lt;strong&gt; incremento de la capacidad tributaria&lt;/strong&gt;, que "eleva la autonomía y la corresponsabilidad fiscal" y "refuerza el principio de suficiencia". Así, la &lt;strong&gt;cesión del IRPF pasa del 50% al 55%&lt;/strong&gt; y, en el caso del &lt;strong&gt;IVA&lt;/strong&gt;, se &lt;strong&gt;incrementa del 50% al 56,5%&lt;/strong&gt;. Además, se incluirán dentro de los&lt;strong&gt; recursos del sistema de financiación&lt;/strong&gt; los impuestos sobre el Patrimonio, sobre los depósitos bancarios, sobre actividades del juego y sobre el depósito de residuos en vertederos.&lt;/p&gt;
+&lt;h3&gt;SOLIDARIDAD INTERTERRITORIAL&lt;/h3&gt;
+&lt;p&gt;Además, también&lt;strong&gt; "amplía, refuerza y garantiza" la solidaridad interterritorial&lt;/strong&gt; a través de un 'mecanismo de nivelación' de carácter "horizontal equitativo, objetivo y transparente". Esto significa g&lt;strong&gt;arantizar que todas las comunidades alcancen un 75% de la media de recursos por habitante ajustado&lt;/strong&gt; determinada a partir de su capacidad tributaria.&lt;/p&gt;
+&lt;p&gt;Por otra parte, Hacienda ha indicado que la &lt;strong&gt;nivelación vertical también queda garantizada gracias a una aportación adicional de la Administración central&lt;/strong&gt;, que "permitirá aumentar la inversión en sanidad, educación pública y políticas sociales". "&lt;/p&gt;
+&lt;p&gt;Con una &lt;strong&gt;aportación de 19.000 millones,&lt;/strong&gt; el objetivo inicial es &lt;strong&gt;reducir en dos tercios la distancia de cada comunidad respecto a la que tiene más recursos&lt;/strong&gt;, que es la Comunidad de Madrid. Este cálculo permitirá que aquellas comunidades más alejadas reciban más recursos frente a las que gozan de una mejor posición. Hacienda ha explicado que &lt;strong&gt;los recursos que el Estado aporta inicialmente a la nivelación vertical procederán del 5% del rendimiento del IRPF&lt;/strong&gt; y a lo que se suma una transferencia adicional.&lt;/p&gt;
+&lt;p&gt;Además, ha indicado que el modelo &lt;strong&gt;"proporciona una mayor autonomía a las comunidades"&lt;/strong&gt; ya que "podrán recibir la recaudación del IVA generado por las pymes en sus territorios".&lt;/p&gt;
+&lt;p&gt;Por otra parte, Hacienda ha señalado &lt;strong&gt;el modelo se adapta a las nuevas realidades&lt;/strong&gt; al incluir un fondo destinado a hacer frente al desafío del cambio climático y establece una garantía de statu quo, por la que &lt;strong&gt;ninguna comunidad autónoma recibirá menos financiación que con el modelo anterior&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;170.529 MILLONES&lt;/h3&gt;
+&lt;p&gt;Por último, Hacienda ha recordado que el conjunto de &lt;strong&gt;los territorios recibirá el próximo ejercicio 170.529 millones de euros, un 8,11% más que en 2026&lt;/strong&gt;. Esto supone u&lt;strong&gt;n nuevo récord en recursos del sistema de financiación&lt;/strong&gt; para las autonomías, que ven incrementados una vez más los fondos que reciben del Estado con respecto al año anterior.&lt;/p&gt;
+&lt;p&gt;Asimismo, ha señalado que,&lt;strong&gt; sumando la liquidación a esas estimaciones, el total de recursos del sistema de financiación que recibirán será de 185.593 millones,&lt;/strong&gt; un 9,1% más en comparación con 2026. Una transferencia histórica que, ha recordado España, &lt;strong&gt;se incrementará aún más si se aprueba el nuevo modelo de financiación&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt; </content:encoded>
+      <enclosure url="http://img1.s3wfg.com/web/img/images_uploaded/b/7/ep_el_ministro_de_hacienda_arcadi_espana_c_preside_una_reunion_del_consejo_de_politica_fiscal_y.jpg" type="image/jpeg" length="108019" />
+      <link>https://www.bolsamania.com/noticias/economia/el-consejo-de-politica-fiscal-y-financiera-aprueba-la-reforma-del-sistema-de-financiacion-autonomica--23490676.html</link>
+      <author>redaccion@bolsamania.com (Alberto Lite)</author>
+      <category>Economía</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/murtra-telefonica-insta-empresarios-catalanes-ser-agentes-transformacion--23489512.html</guid>
+      <pubDate>Fri, 04 Sep 2026 18:28:45 +0200</pubDate>
+      <title> Murtra (Telefónica) insta a los empresarios catalanes a "ser agentes de la transformación" </title>
+      <description>El presidente ejecutivo de Telefónica, Marc Murtra, ha defendido este viernes la relevancia de Cataluña en la nueva etapa de transformación del grupo. El presidente ha repasado la situación y las perspectivas de la compañía en el marco de un encuentro organizado por Foment del Treball, al que han acudido los miembros de los consejos Asesor y Consultivo de la entidad patronal, además de una amplia representación del tejido empresarial más relevante de Cataluña. </description>
+      <content:encoded> &lt;p&gt;"Compartimos con el presidente de Telefónica la necesidad que tiene Europa para tener más escala y un marco regulador que facilite la inversión y la innovación y no dificulte el crecimiento", ha asegurado&lt;strong&gt; el presidente de Foment del Treball, Josep Sánchez Llibre.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Murtra ha explicado que la compañía atraviesa un proceso de transformación integral para ganar competitividad, sustentado en decisiones como la salida de países,&lt;strong&gt; los ajustes de plantilla en España,&lt;/strong&gt; en los servicios corporativos y en Alemania, una nueva política de asignación de capital, la renovación del equipo directivo y una estrategia renovada.&lt;/p&gt;
+&lt;p&gt;El presidente&lt;strong&gt; ha definido este proceso como una auténtica "palingenesia":&lt;/strong&gt; concepto que defiende cambiar lo que no funciona y potenciar lo que se quiere hacer. También ha alentado a los empresarios catalanes presentes a participar en el &amp;ldquo;lobby de hacer cosas&amp;rdquo;: &amp;ldquo;ayudar en la transformación y hacer que las cosas pasen&amp;rdquo;. &amp;ldquo;Los empresarios somos los agentes de la transformación&amp;rdquo;, ha añadido.&lt;/p&gt;
+&lt;p&gt;Esta nueva etapa está enmarcada en &lt;strong&gt;el plan Transform &amp; Grow&lt;/strong&gt;, cuya ejecución ha permitido a Telefónica mejorar sus perspectivas para 2026. El presidente ha destacado la mejora de las previsiones del grupo: la compañía revisó en julio al alza el crecimiento del flujo de caja operativo ajustado después de arrendamientos (OpCFaL ajustado) , que pasa de &amp;ldquo;más de un 2%&amp;rdquo; a &amp;ldquo;más de un 3%&amp;rdquo;, una mejora del 50%.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/9/c/ep_el_presidente_de_telefonica_marc_murtra_durante_una_conferencia_en_foment_del_treball_este.jpg" type="image/jpeg" length="47537" />
+      <link>https://www.bolsamania.com/noticias/empresas/murtra-telefonica-insta-empresarios-catalanes-ser-agentes-transformacion--23489512.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Empresas</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/volkswagen-aprueba-plan-ajuste-50000-despidos-2030-futuro-seat-aire--23483790.html</guid>
+      <pubDate>Fri, 04 Sep 2026 17:51:25 +0200</pubDate>
+      <title> Volkswagen sube tras aprobar su plan de ajuste: 50.000 despidos hasta 2030 con el futuro de Seat en el aire </title>
+      <description>El Consejo de Supervisión del grupo Volkswagen ha aprobado por unanimidad este jueves el plan de ajuste, denominado Plan Futuro 2030, para garantizar su competitividad en un momento en el que la industria automovilística y sus mercados "están experimentando el cambio más rápido y profundo de su historia". El plan contempla el recorte de hasta 50.000 puestos de trabajo, los cuales se suman a los otros 50.000 despidos que se habían aprobado a finales de 2024 hasta finales de la década. "Ante la intensificación de la competencia mundial, los cambios en la demanda y la transformación tecnológica de la industria automovilística, resulta esencial adaptar de forma coherente la capacidad de la plantilla a la realidad económica", ha indicado el fabricante germano en un comunicado, que ha subido un 6,47% en bolsa tras hacer pública su hoja de ruta. </description>
+      <content:encoded> &lt;p&gt;Según detalla la compañía, el grupo &lt;strong&gt;prevé unas ventas anuales de 9 millones de vehículos&lt;/strong&gt; "a medida que evolucionen las condiciones del mercado". El principal objetivo financiero es alcanzar &lt;strong&gt;un margen operativo del 9% en 2030&lt;/strong&gt;. Esto equivale a &lt;strong&gt;un resultado operativo de aproximadamente 31.000 millones de euros&lt;/strong&gt;, con 37.000 millones de euros en costes generales y un objetivo de &lt;strong&gt;135.000 millones de euros para inversiones de capital, investigación y desarrollo&lt;/strong&gt; durante el periodo de planificación 2027-2031.&lt;/p&gt;
+&lt;p&gt;"El Consejo de Supervisión ha aprobado por unanimidad el Plan de Futuro del Consejo de Dirección presentado hoy. Es una señal clara para el futuro del Grupo Volkswagen. Estamos asumiendo nuestra responsabilidad hacia toda nuestra plantilla, nuestros socios y los puestos de trabajo industriales en todo el mundo. Durante los próximos años, invertiremos una cantidad de tres cifras de miles de millones para hacer que nuestras marcas icónicas sean aún más atractivas, sólidas y competitiva", ha indicado &lt;strong&gt;Oliver&lt;/strong&gt; &lt;strong&gt;Blume&lt;/strong&gt;, CEO del Grupo Volkswagen.&lt;/p&gt;
+&lt;p&gt;El acuerdo ha contado con &lt;strong&gt;el visto bueno tanto de los sindicatos como del Estado de Baja Sajonia&lt;/strong&gt;, accionista de Volkswagen y territorio en el que se encuentran las plantas de Emden y Hannover, cuya continuidad no está garantizada. "En esta situación de crisis, luchamos con ahínco por encontrar buenas soluciones. Es positivo que el consejo de administración cuente ahora con la base necesaria para abordar las grandes tareas que tenemos por delante. Esto incluye, explícitamente, el desarrollo de escenarios futuros para todas las plantas. Como la mayor empresa industrial de Alemania, Volkswagen sigue teniendo una enorme responsabilidad con sus empleados y las regiones en las que opera. Demostraremos que los mejores resultados se consiguen cuando todas las partes afrontan incluso los retos más difíciles de frente y de forma conjunta", subraya Christiane Benner, vicepresidenta del consejo de supervisión y primera presidenta del sindicato alemán IG Metall.&lt;/p&gt;
+&lt;h3&gt;¿ADIÓS A SEAT?&lt;/h3&gt;
+&lt;p&gt;Volkswagen también reconoce que &lt;strong&gt;la capacidad europea actual de la compañía supera la demanda "en más de 500.000 unidades"&lt;/strong&gt;, cifra equivalente a la de grandes fábricas presentes en España como la planta de Seat en Martorell (Barcelona) o la de Stellantis en Vigo. En este sentido, el fabricante alemán admite que &lt;strong&gt;"no puede garantizarse una asignación de producción competitiva"&lt;/strong&gt; para las plantas de &lt;strong&gt;Zwickau, Neckarsulm&lt;/strong&gt; y las ya mencionadas &lt;strong&gt;Emden&lt;/strong&gt; y &lt;strong&gt;Hannover&lt;/strong&gt; entre 2031 y 2034. "Paralelamente, y además de lo anterior, se están evaluando usos alternativos para estas plantas", ha señalado la compañía.&lt;/p&gt;
+&lt;p&gt;Así, el grupo alemán ha señalado que, &lt;a href="https://www.bolsamania.com/noticias/empresas/volkswagen-reestructura-recorte-capacidad-gama-modelos--22978768.html"&gt;&lt;strong&gt;para 2035, reducirá su cartera de modelos en torno a un 50% y disminuirá la complejidad de su oferta aproximadamente un 75%&lt;/strong&gt;&lt;/a&gt;. El objetivo de la compañía es &lt;strong&gt;"centrarse en los vehículos más atractivos"&lt;/strong&gt;, aquellos que "pretenden destacar por su diseño y tecnología" y beneficiarse de mayores volúmenes por modelo, menores costes y mayores economías de escala.&lt;/p&gt;
+&lt;p&gt;Para ello, Volkswagen está adaptando sus plataformas, arquitecturas electrónicas, sistemas de asistencia a la conducción y software a las necesidades tanto de los hemisferios occidental como oriental. En concreto, la compañía apunta que en &lt;strong&gt;Norteamérica&lt;/strong&gt; se centrará "en los segmentos más rentables", mientras que el enfoque en &lt;strong&gt;China&lt;/strong&gt; pasa por adaptarse "a unas expectativas revisadas de crecimiento general del mercado automovilístico" del gigante asiático, al tiempo que amplía su actividad exportadora hacia el denominado "Sur Global"&lt;/p&gt;
+&lt;p&gt;Según informan distintos medios, esto &lt;strong&gt;podría poner en riesgo la supervivencia de Seat&lt;/strong&gt;, cuyas ventas palidecen en comparación a la de otras marcas del conglomerado germano. Cabe señalar que &lt;strong&gt;Volkswagen no hace mención alguna a Seat en su comunicado&lt;/strong&gt;. Pese a ello, la prensa especializada destaca que, pese a seguir siendo una marca de éxito en España, la gama de productos de la enseña catalana lleva años relegada en los planes de inversión y de electrificación de la matriz germana, que ha priorizado a la checa &lt;strong&gt;Skoda&lt;/strong&gt;, más rentable que la firma de Martorell, y, sobre todo, a &lt;strong&gt;Cupra&lt;/strong&gt;, la marca hermana de Seat a la que Volkswagen destina gran parte de la inversión destinada a España.&lt;/p&gt;
+&lt;p&gt;El potencial cierre de Seat y su sustitución por Cupra también podría hacer peligrar la situación de la planta de Martorell, que da trabajo a 11.000 personas y en la que se fabrican tres de los modelos más representativos de la firma española: el León, el Ibiza y el Arona. No obstante, fuentes de la marca española recalcan el compromiso de Volkswagen con España, ya que ha destinado 10.000 millones de euros para electrificar la producción y hacer baterías en su planta de Sagunto (Valencia). Asimismo, Volkswagen ha empezado a ensamblar este año en Martorell dos eléctricos del segmento B como el Cupra Raval y el Volkswagen ID. Polo.&lt;/p&gt;
+&lt;h3&gt;VALORACIONES&lt;/h3&gt;
+&lt;p&gt;Los analistas de Banco Sabadell valoran de forma "positiva" un anuncio &lt;strong&gt;"netamente relevante"&lt;/strong&gt; por parte de Volkswagen &lt;strong&gt;('sobreponderar', 105 euros)&lt;/strong&gt;, ya que la compañía "pone nuevamente en el centro la necesidad por parte del grupo de reducir con fuerza sus costes, mejorar su estructura de decisión, así como reenfocar la estrategia" del grupo.&lt;/p&gt;
+&lt;p&gt;"Si bien consideramos que &lt;strong&gt;la mera consecución de los objetivos planteados sería una excelente noticia&lt;/strong&gt; (actualmente su capitalización es de 38.000 millones de euros y su objetivo de EBIT es 31.000 millones) que debería de servir como un fuerte catalizador para el valor, pensamos que es difícil que la cotización recoja el grueso de dicha mejora (supondría más que doblar su nivel actual)", apuntan.&lt;/p&gt;
+&lt;p&gt;Y es que la ejecución del plan, así como la mejora operativa, dependen "no solo de su capacidad interna para realizar el proceso, sino también de &lt;strong&gt;las dinámicas de mercado y de los consumidores, punto donde la visibilidad es hoy extremadamente baja&lt;/strong&gt;". "Con todo, pensamos que este anuncio, así como los acuerdos adoptados son la clave para una eventual recuperación, por lo que estaríamos ante un primer paso necesario que parece que tiene la aprobación de todos los elementos decisores principales (incluido Gobiernos y sindicatos) lo que ya es algo diferencial si atendemos a la historia reciente del grupo", sentencia Sabadell.&lt;/p&gt;
+&lt;p&gt;Bankinter es menos optimista en estos momentos, ya que sigue recomendando &lt;strong&gt;'vender'&lt;/strong&gt; un valor al que otorga un precio objetivo de &lt;strong&gt;77,1 euros&lt;/strong&gt; al considerar que el potencial " quedará reducido a cero tras el rebote que estimamos tendrá lugar hoy".&lt;/p&gt;
+&lt;p&gt;La firma española habla de una reestructuración "más rotunda de lo esperado" y subraya que, pese a su envergadura, era "muy difícil de sacar adelante, así que el impacto sobre el valor debería ser apreciablemente positivo a corto plazo". &lt;strong&gt;"En el medio plazo dependerá de la calidad de la ejecución de la misma"&lt;/strong&gt;, destaca Bankinter.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img6.s3wfg.com/web/img/images_uploaded/a/7/ep_volkswagen_primera_marca_en_recibir_el_premio_volante_de_oro_en_golf_id7_gtx_tayron_y_t-roc.jpg" type="image/jpeg" length="81054" />
+      <link>https://www.bolsamania.com/noticias/empresas/volkswagen-aprueba-plan-ajuste-50000-despidos-2030-futuro-seat-aire--23483790.html</link>
+      <author>redaccion@bolsamania.com (Álvaro Estévez)</author>
+      <category>Empresas</category>
+    </item>
   </channel>
 </rss>
