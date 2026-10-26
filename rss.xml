@@ -5,28 +5,121 @@
     <link>https://www.bolsamania.com/</link>
     <description>Noticias, mercados, empresas, economía, análisis técnico, análisis fundamental y criptomonedas publicadas por Bolsamanía.</description>
     <language>es-ES</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:56:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:13:31 +0000</lastBuildDate>
     <generator>GitHub Actions</generator>
     <item>
-      <guid>https://www.bolsamania.com/noticias/analisis-tecnico/telefonica-implosiona-y-se-lanza-a-por-los-minimos-anuales--23920628.html</guid>
-      <pubDate>Mon, 26 Oct 2026 13:47:27 +0100</pubDate>
-      <title> Telefónica implosiona y se lanza a por los mínimos anuales </title>
-      <description>Telefónica comienza la semana con descensos muy destacados. </description>
-      <content:encoded> &lt;p&gt;La operadora se deja un gap bajista de consideración y pulveriza el soporte del corto plazo que presentaba en los 3,201 euros. Esto le permite atacar ahora mismo&lt;strong&gt; los mínimos anuales de comienzos de año que presenta en los 3,112 euros&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Mucho cuidado con el abandono de este nivel de precios. Si los termina perdiendo es muy probable que podamos acabar viendo &lt;strong&gt;una continuación de la sangría hasta el nivel de los 3 euros&lt;/strong&gt;, sin descartar un ataque a los 2,80 euros.&lt;/p&gt;
-&lt;p&gt;Solo veremos una señal de fortaleza con la superación de la resistencia de los 3,487 euros, máximos del pasado jueves y niveles un 10% por encima de de actuales. &lt;strong&gt;Su tendencia principal es claramente bajista.&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img5.s3wfg.com/web/img/images_uploaded/0/5/w261026tef.png"&gt;
-&lt;figure&gt;&lt;img class="fullWidth" title="w261026tef" src="https://img5.s3wfg.com/web/img/images_uploaded/0/5/w261026tef.png" alt="w261026tef" data-id="5920828" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;iframe src="https://bolsamania.com/module/5561" width="420" height="125"&gt;&lt;/iframe&gt;&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/6/b/telefonicacb8009.jpg" type="image/jpeg" length="41490" />
-      <link>https://www.bolsamania.com/noticias/analisis-tecnico/telefonica-implosiona-y-se-lanza-a-por-los-minimos-anuales--23920628.html</link>
-      <author>redaccion@bolsamania.com (César Nuez)</author>
-      <category>Análisis técnico</category>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-mercadolibre-86-y-paypal-43-son-los-valores-mas-bajistas--23924917.html</guid>
+      <pubDate>Mon, 26 Oct 2026 20:00:52 +0100</pubDate>
+      <title> Nasdaq: MercadoLibre (8,6%) y PayPal (4,3%) son los valores más bajistas </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-mercadolibre-86-y-paypal-43-son-los-valores-mas-bajistas--23924917.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-lumentum-97-y-arm-holdings-65-son-los-valores-mas-alcistas--23924916.html</guid>
+      <pubDate>Mon, 26 Oct 2026 20:00:38 +0100</pubDate>
+      <title> Nasdaq: Lumentum (9,7%) y ARM Holdings (6,5%) son los valores más alcistas </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/nasdaq-lumentum-97-y-arm-holdings-65-son-los-valores-mas-alcistas--23924916.html</link>
+      <author>redaccion@bolsamania.com (Rodrigo Cardona)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-021-sp500-067-nasdaq-086--23924915.html</guid>
+      <pubDate>Mon, 26 Oct 2026 20:00:13 +0100</pubDate>
+      <title> Wall Street: Dow Jones: 0,21%; S&amp;P500: 0,67%; Nasdaq: 0,86% </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-021-sp500-067-nasdaq-086--23924915.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/izertis-crea-fundacion-impulsar-conocimiento-innovacion-tecnologia--23924823.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:52:54 +0100</pubDate>
+      <title> Izertis crea una fundación para "impulsar el conocimiento, la innovación y la tecnología" </title>
+      <description>Izertis ha presentado este lunes su fundación, creada con el propósito de "poner el conocimiento, la capacidad de innovación y la experiencia tecnológica al servicio de la sociedad", según la información remitida a la Comisión Nacional del Mercado de Valores (CNMV). </description>
+      <content:encoded> &lt;p&gt;"La Fundación Izertis tiene como misión &lt;strong&gt;impulsar el conocimiento, la innovación y la tecnología&lt;/strong&gt; como instrumentos de transformación social, promoviendo la investigación, la educación, la colaboración y la igualdad de oportunidades, con la tecnología como elemento transversal de sus proyectos e iniciativas", detalla la empresa.&lt;/p&gt;
+&lt;p&gt;Su actividad se articulará en torno a cuatro ámbitos principales, como son la investigación y conocimiento, la innovación con impacto social, la educación y desarrollo del talento y las alianzas y&lt;strong&gt; colaboración con universidades, centros de investigación, empresas, administraciones públicas y entidades sociales.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La Fundación, &lt;strong&gt;inscrita en el Registro de Fundaciones de competencia estatal,&lt;/strong&gt; tiene nacionalidad española y desarrollará principalmente sus actividades en todo el territorio nacional, sin perjuicio de la posibilidad de promover actuaciones de carácter internacional.&lt;/p&gt;
+&lt;p&gt;"La constitución de la Fundación supone un paso adicional en el compromiso de Izertis con &lt;strong&gt;el desarrollo de iniciativas de impacto social&lt;/strong&gt; vinculadas al conocimiento, la innovación y la tecnología", concluye.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/5/6/izertiscb891123.jpg" type="image/jpeg" length="29445" />
+      <link>https://www.bolsamania.com/noticias/empresas/izertis-crea-fundacion-impulsar-conocimiento-innovacion-tecnologia--23924823.html</link>
+      <author>redaccion@bolsamania.com (Aitor Pereira)</author>
+      <category>Empresas</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados/japonesa-gmo-hunde-mas-15-bolsa-sufrir-ciberataque--23924685.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:49:42 +0100</pubDate>
+      <title> La japonesa GMO se desploma más de un 15% en bolsa tras sufrir un ciberataque </title>
+      <description>El conglomerado tecnológico japonés GMO se ha desplomado en bolsa este lunes tras sufrir un cibertaque. Así, la compañía nipona ha caído un 15% tras reportar un ataque informático que ha afectado a un servicio que utilizan inversores de compraventa de divisas por el que compensará a sus clientes con 5.000 yenes (28 euros) y también pidió ayuda al Gobierno para prevenir la propagación de daños. </description>
+      <content:encoded> &lt;p&gt;En un comunicado remitido a los medios de comunicación, Masatoshi Kumagai, director general de la &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/mercados/nikkei-dispara-3-impulsado-tecnologia-chips--23725698.html"&gt;compañía japonesa,&lt;/a&gt;&lt;/strong&gt; aseguró que &amp;ldquo;Internet en sí mismo está al borde del colapso&amp;rdquo; y pidió disculpas por la reacción tardía de su empresa, pero también señaló que el culpable de la situación es &amp;ldquo;la &lt;strong&gt;evolución explosiva y el mal uso de la tecnología de IA&lt;/strong&gt;&amp;rdquo;: &amp;ldquo;Gracias a ella cualquiera puede ahora llevar a cabo fácilmente un ciberataque&amp;rdquo;, afirmó.&lt;/p&gt;
+&lt;p&gt;GMO cuenta con más de 150 empresas proveedoras de infraestructura de internet, ciberseguridad, criptoactivos y finanzas online y sufrió el sábado una intrusión que afectó a &lt;strong&gt;más de 26.000 de los servidores de compraventa de divisas&lt;/strong&gt;. Los atacantes han exigido a la empresa un rescate de casi 45 millones de euros en criptomonedas, y amenazan con seguir realizando operaciones fraudulentas con las cuentas de los clientes de GMO si no reciben ese dinero. La empresa ha señalado que va a pagar ese rescate y ha pedido una investigación policial para solventar este problema.&lt;/p&gt;
+&lt;p&gt;Este ciberataque no es aislado, ya que Japón ha sufrido en las últimas semanas intrusiones que &lt;strong&gt;han expuesto los datos de millones de personas&lt;/strong&gt;, afectando a todo tipo de empresas y entes públicos. Así, se han visto afectadas compañías tanto del sector del transporte como de la restauración o el comercio,&lt;/p&gt;
+&lt;p&gt;El pasado 11 de octubre, la empresa Arcadia detectó accesos no autorizados a sus redes. Esta compañía es proveedora de un sistema de alertas de emergencia por desastres naturales, y el ataque sufrido obligó a que &lt;strong&gt;suspendiera algunos de sus servicios días después&lt;/strong&gt; de esta intrusión. Además, se vieron expuestas direcciones de mail de trabajadores de la administración o policías que trabajan en los pueblos que tuvieron que suspender el sistema de alerta ante lluvias.&lt;/p&gt;
+&lt;p&gt;El conglomerado japonés ha reconocido que las empresas privadas no pueden hacer frente ellas solas a la magnitud del problema, liderado por &amp;ldquo;organizaciones de ciberdelincuencia altamente capacitadas&amp;rdquo;. El director general de GMO también destacó que los ciberataques se han convertido, gracias a la IA, en algo que "&lt;strong&gt;cualquiera puede llevar a cabo fácilmente&lt;/strong&gt;".&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img4.s3wfg.com/web/img/images_uploaded/2/0/a-tokyo-le-nikkei-finit-en-baisse-de-0-42_rsz.jpg" type="image/jpeg" length="553409" />
+      <link>https://www.bolsamania.com/noticias/mercados/japonesa-gmo-hunde-mas-15-bolsa-sufrir-ciberataque--23924685.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/tesla-celebra-bolsa-mejora-precio-barclays-posible-fusion-spacex--23924712.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:18:05 +0100</pubDate>
+      <title> Tesla celebra en bolsa la mejora de Barclays por una posible fusión con SpaceX </title>
+      <description>Las acciones de Tesla han subido un 6% en Wall Street este lunes para celebrar la mejora concedida por Barclays, que ha elevado tanto la valoración como la recomendación para el fabricante estadounidense de vehículos eléctricos ante una posible fusión con SpaceX. </description>
+      <content:encoded> &lt;p&gt;En concreto, el banco británico ha elevado el precio objetivo para las acciones de la compañía &lt;strong&gt;de 370 a 450 dólares&lt;/strong&gt;, lo que sugiere &lt;strong&gt;un potencial alcista del 21% respecto al cierre del viernes&lt;/strong&gt;, al tiempo que ha revisado al alza la recomendación &lt;strong&gt;desde 'neutral' a 'sobreponderar'.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;El analista Dan Levy señala, en un informe al que ha tenido acceso 'CNBC', que &lt;strong&gt;"el debate reciente en torno a Tesla se ha centrado en gran medida en una posible combinación con SpaceX&lt;/strong&gt;", una posibilidad que ya deslizó el fundador de ambas compañías, Elon Musk.&lt;/p&gt;
+&lt;p&gt;"Dado que dicha combinación se espera con fuerza &amp;mdash;y previendo una prima para las acciones de Tesla&amp;mdash;, consideramos que esto &lt;strong&gt;debería impulsar el valor de los títulos&lt;/strong&gt;", destaca Levy.&lt;/p&gt;
+&lt;p&gt;Además, este experto recuerda que "&lt;strong&gt;el sector automotriz va camino de crecer este año tras dos años de descensos&lt;/strong&gt;, y en 2027 debería registrarse un mayor avance, impulsado por la demanda generada por la conducción totalmente autónoma (FSD, por sus siglas en inglés), así como por el aumento de las exportaciones desde la Giga Shanghai".&lt;/p&gt;
+&lt;p&gt;"Del mismo modo, Tesla señaló que &lt;strong&gt;su división de Energía tiene prácticamente toda su capacidad vendida para 2027&lt;/strong&gt;, dada la sólida demanda por parte de los centros de datos; un factor que, a nuestro juicio, podría sustentar un crecimiento robusto &amp;mdash;superior al 50%&amp;mdash; en las entregas", agrega.&lt;/p&gt;
+&lt;p&gt;La semana pasada, &lt;strong&gt;Musk abrió la puerta a la operación asegurando que sería una "buena idea"&lt;/strong&gt;, pero los analistas creen que, si bien tiene sentido estratégicamente sobre el papel, "podría ser muy compleja".&lt;/p&gt;
+&lt;p&gt;Así opina &lt;strong&gt;Neil Wilson, estratega de inversiones de Saxo en el Reino Unido&lt;/strong&gt;, que pone el foco en que "una fusión permitiría a Musk consolidar su propiedad y posibilitaría la integración vertical de IA, robótica, energía, transporte y espacio, todo ello respaldado por la planta Terafab, valorada en billones de dólares".&lt;/p&gt;
+&lt;p&gt;"La integración operativa ya existe entre las empresas, por ejemplo, en Terafab, y podría ser solo cuestión de tiempo. &lt;strong&gt;La presidenta de SpaceX, Gwynne Shotwell,&lt;/strong&gt; afirmó que 'podría facilitarle un poco la vida a Elon' y, de hecho, con la enorme sinergia existente, una fusión simplifica los riesgos de conflicto de intereses", añade.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img4.s3wfg.com/web/img/images_uploaded/2/e/tesla_elon_musk_junta_2025.jpg" type="image/jpeg" length="713585" />
+      <link>https://www.bolsamania.com/noticias/empresas/tesla-celebra-bolsa-mejora-precio-barclays-posible-fusion-spacex--23924712.html</link>
+      <author>redaccion@bolsamania.com (Aitor Pereira)</author>
+      <category>Empresas</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-fair-isaac--151-y-skydance-58-son-los-valores-mas-bajistas--23924696.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:01:14 +0100</pubDate>
+      <title> S&amp;P 500: Fair Isaac (-15,1%) y SkyDance (5,8%) son los valores más bajistas </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="713585" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-fair-isaac--151-y-skydance-58-son-los-valores-mas-bajistas--23924696.html</link>
+      <author>redaccion@vortexmedia.es (Carlos Romera, CEO de Real Cober y experto en seguros)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-lumentum-108-y-everpure-92-son-los-valores-mas-alcistas--23924695.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:00:52 +0100</pubDate>
+      <title> S&amp;P 500: Lumentum (10,8%) y Everpure (9,2%) son los valores más alcistas </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="713585" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/sp-500-lumentum-108-y-everpure-92-son-los-valores-mas-alcistas--23924695.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-027-sp500-081-nasdaq-104--23924694.html</guid>
+      <pubDate>Mon, 26 Oct 2026 19:00:20 +0100</pubDate>
+      <title> Wall Street: Dow Jones: +0,27%; S&amp;P500: +0,81%; Nasdaq: +1,04% </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="713585" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-027-sp500-081-nasdaq-104--23924694.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Última Hora Mercados</category>
     </item>
     <item>
       <guid>https://www.bolsamania.com/noticias/analisis-tecnico/companias-que-se-deben-tener-muy-en-cuenta-por-tecnico-este-lunes-en-wall-street--23922403.html</guid>
-      <pubDate>Mon, 26 Oct 2026 13:40:18 +0100</pubDate>
+      <pubDate>Mon, 26 Oct 2026 18:18:29 +0100</pubDate>
       <title> Compañías que se deben tener muy en cuenta por técnico este lunes en Wall Street </title>
       <description>Apple ha conseguido perforar los máximos históricos. </description>
       <content:encoded> &lt;p&gt;Atentos que se pone fin a la consolidación lateral de las últimas semanas y no descartamos acabar viendo una extensión de las subidas hasta los 380 dólares. Por debajo el soporte a vigilar se encuentra en los 325 dólares.&lt;/p&gt;
@@ -50,10 +143,155 @@
       <category>Análisis técnico</category>
     </item>
     <item>
+      <guid>https://www.bolsamania.com/noticias/analisis-tecnico/telefonica-implosiona-y-se-lanza-a-por-los-minimos-anuales--23920628.html</guid>
+      <pubDate>Mon, 26 Oct 2026 18:15:11 +0100</pubDate>
+      <title> Telefónica implosiona y se lanza a por los mínimos anuales </title>
+      <description>Telefónica comienza la semana con descensos muy destacados. </description>
+      <content:encoded> &lt;p&gt;La operadora se deja un gap bajista de consideración y pulveriza el soporte del corto plazo que presentaba en los 3,201 euros. Esto le permite atacar ahora mismo&lt;strong&gt; los mínimos anuales de comienzos de año que presenta en los 3,112 euros&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Mucho cuidado con el abandono de este nivel de precios. Si los termina perdiendo es muy probable que podamos acabar viendo &lt;strong&gt;una continuación de la sangría hasta el nivel de los 3 euros&lt;/strong&gt;, sin descartar un ataque a los 2,80 euros.&lt;/p&gt;
+&lt;p&gt;Solo veremos una señal de fortaleza con la superación de la resistencia de los 3,487 euros, máximos del pasado jueves y niveles un 10% por encima de de actuales. &lt;strong&gt;Su tendencia principal es claramente bajista.&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img5.s3wfg.com/web/img/images_uploaded/0/5/w261026tef.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="w261026tef" src="https://img5.s3wfg.com/web/img/images_uploaded/0/5/w261026tef.png" alt="w261026tef" data-id="5920828" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;iframe src="https://bolsamania.com/module/5561" width="420" height="125"&gt;&lt;/iframe&gt;&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/6/b/telefonicacb8009.jpg" type="image/jpeg" length="41490" />
+      <link>https://www.bolsamania.com/noticias/analisis-tecnico/telefonica-implosiona-y-se-lanza-a-por-los-minimos-anuales--23920628.html</link>
+      <author>redaccion@bolsamania.com (César Nuez)</author>
+      <category>Análisis técnico</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-merck--31-y-walt-disney--2-son-los-valores-mas-bajistas--23924344.html</guid>
+      <pubDate>Mon, 26 Oct 2026 18:01:06 +0100</pubDate>
+      <title> Dow Jones: Merck (-3,1%) y Walt Disney (-2%) son los valores más bajistas </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="41490" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-merck--31-y-walt-disney--2-son-los-valores-mas-bajistas--23924344.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-cisco-34-y-goldman-sachs-25-son-los-valores-mas-alcistas--23924342.html</guid>
+      <pubDate>Mon, 26 Oct 2026 18:00:46 +0100</pubDate>
+      <title> Dow Jones: Cisco (+3,4%) y Goldman Sachs (2,5%) son los valores más alcistas </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="41490" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-cisco-34-y-goldman-sachs-25-son-los-valores-mas-alcistas--23924342.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-025-sp500-074-nasdaq-099--23924341.html</guid>
+      <pubDate>Mon, 26 Oct 2026 18:00:37 +0100</pubDate>
+      <title> Wall Street: Dow Jones: +0,25%; S&amp;P500: +0,74%; Nasdaq: +0,99% </title>
+      <description> </description>
+      <content:encoded>  </content:encoded>
+      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="41490" />
+      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones-025-sp500-074-nasdaq-099--23924341.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Última Hora Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/analisis-tecnico/el-ibex-mantiene-la-incertidumbre--23922248.html</guid>
+      <pubDate>Mon, 26 Oct 2026 17:59:29 +0100</pubDate>
+      <title> El Ibex mantiene la incertidumbre </title>
+      <description>El Ibex comienza la semana perforando el soporte del corto plazo que presenta en los 18.821 puntos. </description>
+      <content:encoded> &lt;p&gt;Ojo que se mantiene cotizando &lt;strong&gt;muy cerca del soporte de los 18.500 puntos.&lt;/strong&gt; En estos niveles se encuentra la media de 200 sesiones, niveles clave. Ojo que si al final los abandona es muy probable que podamos acabar viendo una extensión de las caídas hasta el nivel de los 18.000 puntos.&lt;/p&gt;
+&lt;p&gt;Mucho cuidado que si al final abandona estos precios es probable que podamos ver el primer paso para un cambio de tendencia. A corto plazo deberíamos extremar la prudencia. No veremos una señal de fortaleza mientras que se mantenga cotizando por debajo de los 19.576 puntos, precios un 5% por encima de los actuales.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img1.s3wfg.com/web/img/images_uploaded/b/e/c261026ibex.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c261026ibex" src="https://img1.s3wfg.com/web/img/images_uploaded/b/e/c261026ibex.png" alt="c261026ibex" data-id="5920844" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;iframe src="https://bolsamania.com/module/5561" width="420" height="125"&gt;&lt;/iframe&gt;&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img6.s3wfg.com/web/img/images_uploaded/d/1/el-ibex-35-vuelve-a-superar-los-11700-puntos-despues.jpg" type="image/jpeg" length="139055" />
+      <link>https://www.bolsamania.com/noticias/analisis-tecnico/el-ibex-mantiene-la-incertidumbre--23922248.html</link>
+      <author>redaccion@bolsamania.com (César Nuez)</author>
+      <category>Análisis técnico</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-semana-de-vertigo-mercados--23920094.html</guid>
+      <pubDate>Mon, 26 Oct 2026 17:58:58 +0100</pubDate>
+      <title> El Ibex 35 remonta, pero cierra a la cola de Europa tras el terremoto electoral en Brasil </title>
+      <description>El Ibex 35 despide el lunes siendo claramente el peor índice europeo, aunque se ha recuperado y cierra con alzas contenidas tras llegar a ceder más de un 1% (+0,23%, 19.033 puntos). Esta debilidad se debe al impacto que el inesperado triunfo de Lula da Silva en Brasil está teniendo en las compañías con intereses en el país. Santander ha perdido un 3% (ha llegado a hundirse más de un 5%) y Telefónica alrededor del 6% (en el caso de la operadora hay que añadir además una rebaja de JP Morgan). Mapfre, también con presencia en el país, se ha dejado cerca de un 2%. </description>
+      <content:encoded> &lt;p&gt;Frente a esto, el resto de bolsas europeas cotizan con alzas, recogiendo el impacto positivo de la decisión de Moody's del viernes por la noche, que finalmente &lt;a href="https://www.bolsamania.com/noticias/economia/francia-evita-rebaja-moodys-bonos-reaccionan-alza--23920302.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;ha dado un voto de confianza a Francia y ha decidido no recortar su calificación&lt;/strong&gt;&lt;/a&gt;, lo que está haciendo &lt;strong&gt;subir el precio de los bonos franceses y bajar sus rentabilidades.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Al otro lado del Atlántico, los selectivos estadounidenses cotizan en verde en el comienzo de una semana marcada por resultados de grandes tecnológicas allí. Los inversores deben tener presente desde este lunes el cambio de hora en España, que durante unos días modifica el desfase con Estados Unidos. Así, &lt;strong&gt;Wall Street abrirá esta semana a las 14:30 horas y cerrará a las 21:00 horas&lt;/strong&gt;, horario peninsular español.&lt;/p&gt;
+&lt;h3&gt;TRIUNFO INESPERADO&lt;/h3&gt;
+&lt;p&gt;La atención en este comienzo de semana se dirige especialmente a &lt;strong&gt;Brasil, donde Luiz Inácio Lula da Silva se ha impuesto de forma inesperada en la segunda vuelta de las elecciones presidenciales&lt;/strong&gt; celebrada este domingo frente a Flávio Bolsonaro. Lula ha logrado así la reelección para un cuarto mandato no consecutivo después de que Bolsonaro hubiera ganado la primera vuelta y llegara como favorito para numerosos inversores.&lt;/p&gt;
+&lt;p&gt;El resultado está provocando &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/mercados/inesperada-victoria-lula-brasil-sacude-mercado-hunde-etf-pais--23920227.html" rel="noopener noreferrer" target="_blank"&gt;volatilidad en los activos brasileños&lt;/a&gt; (ETF, bolsa, real...) y en otros, como ocurre con los títulos del Ibex con presencia en el país,&lt;/strong&gt; ya que el mercado había realizado apuestas importantes por un cambio de Gobierno.&lt;/p&gt;
+&lt;p&gt;Además, Flávio Bolsonaro se ha negado a reconocer la derrota y ha anunciado que &lt;strong&gt;tratará de impugnar el resultado&lt;/strong&gt;, cuestionando la ampliación en dos horas del horario de votación decidida por el Tribunal Supremo debido a problemas meteorológicos y de transporte. Lula se impuso finalmente por cerca de 4,4 millones de votos.&lt;/p&gt;
+&lt;p&gt;También está en el foco &lt;strong&gt;Francia&lt;/strong&gt;, después de que &lt;strong&gt;Moody's sorprendiera el viernes al&lt;a href="https://www.bolsamania.com/noticias/economia/francia-evita-rebaja-moodys-bonos-reaccionan-alza--23920302.html" rel="noopener noreferrer" target="_blank"&gt; mantener su calificación soberana en 'Aa3', con perspectiva negativa&lt;/a&gt;&lt;/strong&gt;, cuando el mercado esperaba ampliamente una rebaja. La agencia evitó así añadir más presión inmediata sobre el país, aunque condicionó su decisión a que Francia apruebe un presupuesto para 2027 que reduzca el déficit público.&lt;/p&gt;
+&lt;p&gt;El primer ministro francés, Sébastien Lecornu, celebró la decisión en X y aseguró que el anuncio &lt;strong&gt;"desbarata los pronósticos derrotistas" de numerosos expertos&lt;/strong&gt; y de quienes especulan con la deuda francesa. Lecornu añadió que la señal enviada por Moody's demuestra a los acreedores que "existe un camino" y defendió la &lt;strong&gt;necesidad de aprobar antes de final de año un presupuesto compatible con el objetivo de situar el déficit público en el 5% del PIB&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;EL PETRÓLEO CAE UN 2%&lt;/h3&gt;
+&lt;p&gt;En el mercado de materias primas, el petróleo registra signo mixto este lunes después del importante repunte del viernes. &lt;strong&gt;El West Texas Intermediate (WTI) cae un 0,2%, hasta el entorno de los 103 dólares por barril&lt;/strong&gt;, mientras que el Brent suma cerca de un 0,5% y supera los 117 dólares.&lt;/p&gt;
+&lt;p&gt;Los operadores sopesan, por un lado, el riesgo de nuevos ataques contra infraestructuras energéticas de Arabia Saudí y, por otro, la posibilidad de que los elevados precios del crudo terminen destruyendo demanda.&lt;/p&gt;
+&lt;p&gt;Las caídas llegan &lt;strong&gt;después del fuerte avance registrado el viernes&lt;/strong&gt;, cuando los ataques de los rebeldes hutíes de Yemen contra Arabia Saudí reavivaron el temor a interrupciones en el suministro mundial de energía. Las tensiones continuaron durante el fin de semana, con nuevos ataques contra el aeropuerto de Riad e instalaciones petroleras. Según informan distintos medios, el ministro de Energía saudí se dirige a Irán para mantener conversaciones para desescalar el conflicto.&lt;/p&gt;
+&lt;h3&gt;UNA SEMANA CARGADA DE BANCOS CENTRALES, DATOS Y RESULTADOS&lt;/h3&gt;
+&lt;p&gt;Todo ello marca el arranque de &lt;strong&gt;una semana extraordinariamente intensa&lt;/strong&gt;. Este lunes se ha conocido en&lt;strong&gt; Alemania el &lt;a href="https://www.bolsamania.com/noticias/economia/ifo-clima-empresarial-alemania-mejora-octubre-recuperacion-continua--23920990.html" rel="noopener noreferrer" target="_blank"&gt;IFO de octubre&lt;/a&gt;&lt;/strong&gt;, mientras &lt;a href="https://www.bolsamania.com/noticias/empresas/dia-eleva-114-ventas-tercer-trimestre-1987-millones--23920254.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;Dia ha presentado sus ventas&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Los bancos centrales tendrán especial protagonismo en las próximas jornadas. La &lt;strong&gt;Reserva Federal (Fed), el Banco Central Europeo (BCE), el Banco de Japón (BoJ), el Banco de Canadá y el de Nueva Zelanda&lt;/strong&gt; anunciarán sus decisiones de tipos, en unas jornadas que permitirán calibrar el rumbo de la política monetaria en las principales economías.&lt;/p&gt;
+&lt;p&gt;En el frente macroeconómico, los inversores estarán pendientes de los&lt;strong&gt; datos de PIB&lt;/strong&gt; de España, Alemania y la eurozona, de las referencias de &lt;strong&gt;inflación&lt;/strong&gt; en España, Francia y Alemania, del &lt;strong&gt;PIB y el PCE&lt;/strong&gt; de Estados Unidos, así como de distintos indicadores de empleo, confianza y actividad.&lt;/p&gt;
+&lt;p&gt;A todo ello se suma una intensa temporada de resultados. En España rendirán cuentas, entre otras,&lt;strong&gt; Santander, BBVA, Sabadell, CaixaBank, Unicaja, Endesa, Aena, Repsol, Naturgy, Mapfre y Línea Directa&lt;/strong&gt;. Fuera del mercado nacional, el foco estará también en nombres como &lt;strong&gt;Alphabet, Amazon, Microsoft, Boeing, Samsung, Shell y BP.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Además, Reino Unido se presentará el &lt;a href="https://www.bolsamania.com/noticias/economia/cinco-maneras-presupuesto-otono-reino-unido-sorprender-inversores--23875138.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;Presupuesto de Otoño&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;OTROS MERCADOS&lt;/h3&gt;
+&lt;p&gt;El oro sube moderadamente (4.033 dólares) y la plata avanza levemente (54,17 dólares).&lt;/p&gt;
+&lt;p&gt;La rentabilidad del bono del Tesoro estadounidense a 10 años cae al 4,982%.&lt;/p&gt;
+&lt;p&gt;En el mercado de divisas, el EUR/USD cae a 1,1182 dólares.&lt;/p&gt;
+&lt;p&gt;Y el bitcoin lucha por conservar los 80.000 dólares.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img5.s3wfg.com/web/img/images_uploaded/a/6/ibex_35_nueva_0.jpg" type="image/jpeg" length="625850" />
+      <link>https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-semana-de-vertigo-mercados--23920094.html</link>
+      <author>redaccion@vortexmedia.es (Nieves Amigo / Álvaro Estévez)</author>
+      <category>Crónica Ibex</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/mercados/inesperada-victoria-lula-brasil-sacude-mercado-hunde-etf-pais--23920227.html</guid>
+      <pubDate>Mon, 26 Oct 2026 17:57:52 +0100</pubDate>
+      <title> La inesperada victoria de Lula en Brasil sacude al mercado y hunde los ETF del país </title>
+      <description>Luiz Inácio Lula da Silva ha logrado un histórico cuarto mandato como presidente de Brasil después de imponerse este domingo a Flávio Bolsonaro en la segunda vuelta de unas elecciones que han dado la sorpresa y que están provocando fuertes movimientos en los activos brasileños. </description>
+      <content:encoded> &lt;p&gt;Con el escrutinio completado, &lt;strong&gt;Lula obtuvo 64,26 millones de votos, el 51,79% de los sufragios válidos&lt;/strong&gt;, frente a los 59,83 millones de Bolsonaro, que consiguió el 48,21%, según los datos oficiales del Tribunal Superior Electoral (TSE).&lt;/p&gt;
+&lt;p&gt;El resultado supone además un hito en la historia electoral reciente del país: es la primera vez desde el regreso de las elecciones presidenciales directas, en 1989, que un candidato consigue imponerse en la segunda vuelta después de haber perdido la primera. &lt;strong&gt;Lula, de 80 años, gobernará Brasil entre 2027 y 2030.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote class="right"&gt;La victoria ha sorprendido al mercado, que había elevado sus apuestas por Bolsonaro después de su triunfo en la primera vuelta&lt;/blockquote&gt;
+&lt;p&gt;La victoria ha &lt;strong&gt;sorprendido al mercado&lt;/strong&gt;, que en las últimas semanas había elevado sus apuestas por Bolsonaro después de su triunfo en la primera vuelta. Los inversores veían al candidato conservador como &lt;strong&gt;una opción más favorable&lt;/strong&gt; para impulsar una &lt;strong&gt;mayor disciplina fiscal y medidas de desregulación.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La reacción no se ha hecho esperar. El &lt;strong&gt;iShares MSCI Brazil ETF (EWZ)&lt;/strong&gt;, uno de los principales vehículos utilizados en Estados Unidos para invertir en la bolsa brasileña, &lt;strong&gt;llegó a desplomarse cerca de un 20% en la negociación nocturna&lt;/strong&gt;, mientras que un &lt;strong&gt;ETF sobre Brasil cotizado en Tokio llegó a perder alrededor de un 15%-16%&lt;/strong&gt;. Los futuros sobre el real brasileño también llegaron a caer alrededor de un 10%.&lt;/p&gt;
+&lt;p&gt;Estos movimientos ya anticipaban una sesión de &lt;strong&gt;elevada volatilidad en los mercados brasileños.&lt;/strong&gt; De hecho, el índice &lt;strong&gt;Bovespa&lt;/strong&gt; ha abierto con un retroceso del 16%, después de que tanto la bolsa como la divisa hubieran subido con fuerza antes de las elecciones ante la expectativa de una victoria de Bolsonaro. 'Reuters' señala que las acciones brasileñas habían avanzado cerca de un 7% y el real se había apreciado alrededor de un 5% en el periodo previo a la votación. En España, este resultado ha impactado en las compañías con intereses en el país, como &lt;strong&gt;Telefónica, Santander, Mapfre...&lt;/strong&gt;, que &lt;a href="https://www.bolsamania.com/noticias/mercados/santander-telefonica-reeleccion-lula-brasil-golpea-fuerza-ibex--23920567.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;lo han recogido con fuertes recortes&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;BOLSONARO NO RECONOCE LA DERROTA&lt;/h3&gt;
+&lt;p&gt;La incertidumbre política se ha visto además incrementada después de que &lt;strong&gt;Flávio Bolsonaro se negara a reconocer el resultado y anunciara que tratará de conseguir su anulación.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Bolsonaro ha cuestionado la decisión del juez del Tribunal Supremo Cristiano Zanin de &lt;strong&gt;ampliar durante dos horas la votación en determinados centros&lt;/strong&gt;, una medida adoptada después de los problemas registrados durante la jornada electoral. El TSE explicó que la votación únicamente continuó en aquellos lugares en los que todavía no había terminado a las 17:00 horas.&lt;/p&gt;
+&lt;p&gt;La campaña estuvo marcada por &lt;strong&gt;denuncias cruzadas sobre dificultades para votar&lt;/strong&gt;. El equipo de Lula denunció problemas con el transporte público en algunas zonas, mientras que el de Bolsonaro había reclamado también una ampliación del horario por las fuertes lluvias que afectaron a colegios electorales del sur del país.&lt;/p&gt;
+&lt;p&gt;Reuters señala, no obstante, que &lt;strong&gt;los analistas consideran muy improbable que prospere una eventual anulación&lt;/strong&gt;, aunque el desafío de Bolsonaro puede incrementar la tensión política y abrir la puerta a protestas.&lt;/p&gt;
+&lt;h3&gt;EL MERCADO MIRA AHORA A LA DEUDA&lt;/h3&gt;
+&lt;p&gt;Más allá de la disputa electoral, el gran reto de Lula será &lt;strong&gt;convencer a los mercados de que puede estabilizar las finanzas públicas brasileñas&lt;/strong&gt;. La deuda bruta del país &lt;strong&gt;supera ya el 82% del PIB&lt;/strong&gt;, mientras los elevados tipos de interés y el peso del gasto obligatorio limitan el margen fiscal del Gobierno.&lt;/p&gt;
+&lt;blockquote class="right"&gt;Rabobank cree que la victoria de Lula supone también un revés para la Administración Trump en sus esfuerzos por reforzar la influencia en América Latina&lt;/blockquote&gt;
+&lt;p&gt;Los inversores estarán especialmente atentos a las &lt;strong&gt;primeras señales sobre el presupuesto de 2027&lt;/strong&gt;, el control del gasto y la elección del próximo ministro de Finanzas.&lt;/p&gt;
+&lt;p&gt;Rabobank destaca precisamente que las elecciones, la guerra y los bancos centrales serán los grandes factores capaces de generar volatilidad esta semana. La firma recuerda que los mercados de predicción habían favorecido a Bolsonaro antes de la votación y considera que &lt;strong&gt;la victoria de Lula supone también un revés para la Administración Trump&lt;/strong&gt; en sus esfuerzos por reforzar la influencia estadounidense en América Latina.&lt;/p&gt;
+&lt;p&gt;Brasil ha ganado además relevancia estratégica en los últimos meses por su &lt;strong&gt;papel en los mercados energéticos&lt;/strong&gt;. Según Rabobank, &lt;strong&gt;sus exportaciones de petróleo crecieron un 17% interanual hasta septiembre&lt;/strong&gt; y llegaron a superar ese mes a la soja como principal producto de exportación del país. &lt;strong&gt;China&lt;/strong&gt; sigue siendo el mayor comprador tanto de crudo como de soja brasileña, un elemento que añade una dimensión geopolítica al resultado electoral.&lt;/p&gt;
+&lt;p&gt;Lula tendrá, además, que gobernar con un Congreso difícil. &lt;strong&gt;El Partido Liberal de Bolsonaro conserva una importante representación parlamentaria&lt;/strong&gt;, lo que puede limitar la capacidad del presidente para sacar adelante su agenda económica y social durante los próximos cuatro años.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img1.s3wfg.com/web/img/images_uploaded/1/d/le-president-bresilien-luiz-inacio-lula-da-silva_20250722081138_rsz.jpg" type="image/jpeg" length="351891" />
+      <link>https://www.bolsamania.com/noticias/mercados/inesperada-victoria-lula-brasil-sacude-mercado-hunde-etf-pais--23920227.html</link>
+      <author>redaccion@bolsamania.com (Nieves Amigo)</author>
+      <category>Mercados</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/empresas/microsoft-ofrecera-indemnizaciones-despido-voluntario-60000-trabajadores--23924197.html</guid>
+      <pubDate>Mon, 26 Oct 2026 17:54:45 +0100</pubDate>
+      <title> Microsoft ofrecerá indemnizaciones por despido voluntario a 60.000 trabajadores </title>
+      <description>Microsoft ha anunciado que ofrecerá indemnizaciones por despido voluntario a 60.000 trabajadores, según ha publicado este lunes 'Bloomberg'. Los empleados con rango de vicepresidente o inferior en determinadas áreas de trabajo en EEUU, Canadá, India y el Reino Unido podrán acogerse a esta plan. </description>
+      <content:encoded> &lt;p&gt;El paquete incluye &lt;strong&gt;beneficios similares a una indemnización por despido estándar.&lt;/strong&gt; La compañía tecnológica contaba con 223.000 empleados a finales de junio, una cifra que se ha mantenido prácticamente sin cambios desde 2022.&lt;/p&gt;
+&lt;p&gt;Algunos departamentos de la empresa, como marketing, ventas e ingeniería han decidido no participar en este programa. Además, esta no es la primera vez en que Microsoft anuncia su intención de reducir su plantilla, ya que en abril, comunicó el &lt;strong&gt;primer programa de jubilación voluntaria&lt;/strong&gt; al que podían optar alrededor del 7% de sus empleados en EEUU.&lt;/p&gt;
+&lt;p&gt;En un documento enviado a los empleados, Amy Coleman, vicepresidenta ejecutiva y directora de recursos humanos de &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/empresas/microsoft-invierte-2500-millones-nueva-unidad-negocio-centrada-ia--22909600.html"&gt;Microsoft&lt;/a&gt;&lt;/strong&gt;, ha asegurado que "la oferta de salida voluntaria refleja una parte importante de cómo está evolucionando el enfoque ante el cambio: &lt;strong&gt;crear mayor flexibilidad&lt;/strong&gt; y, en la medida de lo posible, más maneras para que los empleados definan su próximo capítulo".&lt;/p&gt;
+&lt;p&gt;Coleman también ha afirmado que el diseño de este plan "se basa en lo aprendido a principios de este año a través del primer programa de jubilación voluntaria". La empresa señala que &lt;strong&gt;más del 30 % de quienes podían acogerse a este plan de jubilación voluntaria lo hicieron&lt;/strong&gt;, pero solo eran elegibles directivos de nivel superior o inferior, mientras que la nueva iniciativa llega hasta el nivel de vicepresidente.&lt;/p&gt;
+&lt;p&gt;Esta medida se produce mientras &lt;strong&gt;Microsoft aumenta su inversión en infraestructura de IA&lt;/strong&gt; y busca controlar los costes en otras áreas, aunque no la vincula directamente con el creciente uso de esta tecnología. Otras importantes empresas tecnológicas, como Alphabet y Meta también han ofrecido bajas voluntarias o reducciones de plantilla como parte de sus ajustes en sus equipos de trabajo.&lt;/p&gt;
+&lt;p&gt;Así, la semana pasada, otra gran empresa como &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/empresas/american-express-recortara-5-plantilla-prepararse-irrupcion-ia--23917203.html"&gt;American Express &lt;/a&gt;&lt;/strong&gt;anunció que despedirá al 5% de su plantilla para "prepararse para la irrupción de la inteligencia artificial", según anunció su director ejecutivo, Stephen Squeri. En este mismo sentido se pronunció Barclays, ya que confirmó sus planes de recortar 5.000 puestos de trabajo &amp;mdash;también aproximadamente el 5% de su plantilla&amp;mdash;, argumentando también el mayor uso de la IA.&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img4.s3wfg.com/web/img/images_uploaded/6/d/satya_nadella_microsoft_davos_2026_3.jpg" type="image/jpeg" length="512837" />
+      <link>https://www.bolsamania.com/noticias/empresas/microsoft-ofrecera-indemnizaciones-despido-voluntario-60000-trabajadores--23924197.html</link>
+      <author>redaccion@bolsamania.com (Bolsamanía)</author>
+      <category>Empresas</category>
+    </item>
+    <item>
       <guid>https://www.bolsamania.com/noticias/empresas/galp-hunde-romper-negociaciones-moeve-fusionar-negocios-petroleo--23920629.html</guid>
-      <pubDate>Mon, 26 Oct 2026 13:34:40 +0100</pubDate>
+      <pubDate>Mon, 26 Oct 2026 17:46:34 +0100</pubDate>
       <title> Galp se hunde tras romper negociaciones con Moeve para fusionar sus negocios de petróleo </title>
-      <description>Las acciones de Galp se desploman hasta un 9% y firman su peor día desde 2025 después de que haya anunciado que no ha llegado a un acuerdo con Moeve para fusionar sus negocios de refino, distribución y comercialización &amp;ndash;conocidos como 'downstream' en el sector petrolero&amp;ndash; tras el acuerdo no vinculante firmado el pasado 8 de enero. </description>
+      <description>Las acciones de Galp se han desplomado un 10,84% y firman su peor día desde 2025 después de que haya anunciado que no ha llegado a un acuerdo con Moeve para fusionar sus negocios de refino, distribución y comercialización &amp;ndash;conocidos como 'downstream' en el sector petrolero&amp;ndash; tras el acuerdo no vinculante firmado el pasado 8 de enero. </description>
       <content:encoded> &lt;p&gt;Según ha explicado Moeve en un escueto comunicado, ambas compañías no han conseguido alcanzar "unos términos definitivos que &lt;strong&gt;cumplieran sus respectivos criterios estratégicos y financieros&lt;/strong&gt; para respaldar una alianza duradera y generadora de valor" para "la posible combinación de sus negocios de 'downstream' en la Península Ibérica, para crear dos plataformas independientes".&lt;/p&gt;
 &lt;p&gt;Por su parte, Galp ha señalado que, "tras extensas negociaciones" y &lt;strong&gt;"a pesar de todos los esfuerzos realizados, no se ha llegado a ningún acuerdo"&lt;/strong&gt;. "Este desenlace &lt;strong&gt;no tiene impacto en las operaciones actuales de Galp&lt;/strong&gt; ni en la confianza de la compañía en el potencial de creación de valor independiente de su cartera de 'downstream'. Tampoco altera la convicción de Galp respecto a las oportunidades que la consolidación del sector puede representar para reforzar la competitividad, la escala y la capacidad de inversión de los negocios", ha señalado la firma lusa.&lt;/p&gt;
 &lt;p&gt;La compañía cotizada en la Bolsa de Lisboa también ha asegurado que sus negocios de 'downstream' "mantienen una posición sólida, respaldada por una red de estaciones de servicio líder en Portugal y por una cartera relevante de proyectos de transición energética en Sines, entre los que se incluyen uno de los mayores proyectos de producción de hidrógeno verde mediante electrólisis de Europa y una planta de producción de biocombustibles avanzados".&lt;/p&gt;
@@ -67,6 +305,31 @@
       <link>https://www.bolsamania.com/noticias/empresas/galp-hunde-romper-negociaciones-moeve-fusionar-negocios-petroleo--23920629.html</link>
       <author>redaccion@bolsamania.com (Álvaro Estévez)</author>
       <category>Empresas</category>
+    </item>
+    <item>
+      <guid>https://www.bolsamania.com/noticias/analisis-tecnico/telefonica-y-dos-valores-mas-que-han-perforado-soportes-o-resistencias-este-lunes--23921983.html</guid>
+      <pubDate>Mon, 26 Oct 2026 17:45:58 +0100</pubDate>
+      <title> Telefónica y dos valores más que han perforado soportes o resistencias este lunes </title>
+      <description>Muy mala señal en Telefónica que pulveriza el soporte de los 3,201 euros. </description>
+      <content:encoded> &lt;p&gt;La operadora complica su aspecto técnico y se lanza por el soporte de los 3,112 euros, mínimos anuales. Si los pierde podríamos acabar viendo una extensión de las caídas hasta el nivel de los 2,80 euros.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img4.s3wfg.com/web/img/images_uploaded/5/f/c261026tef.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c261026tef" src="https://img4.s3wfg.com/web/img/images_uploaded/5/f/c261026tef.png" alt="c261026tef" data-id="5920837" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Ojo con el &lt;strong&gt;Santander&lt;/strong&gt; pierde la media de 200 sesiones con gap bajista incluido. El banco lucha por agarrarse al nivel de los 11 euros. Ojo que podría ser el primer paso para un cambio de tendencia.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img6.s3wfg.com/web/img/images_uploaded/b/5/c261026santander.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c261026santander" src="https://img6.s3wfg.com/web/img/images_uploaded/b/5/c261026santander.png" alt="c261026santander" data-id="5920836" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Buena señal en &lt;strong&gt;Grifols&lt;/strong&gt; que consigue perforar la resistencia de los 10,17 euros. Se confirma un giro en la media de 200 sesiones y parece que podríamos acabar viendo una extensión de las caídas hasta el nivel de los 10,804 euros, máximos de julio. Muy pendientes que la superación de estos precios nos haría pensar en una extensión de las subidas hasta el nivel de los 11,50 euros.&lt;/p&gt;
+&lt;div class="extensible fullWidth" data-toggle="modal" data-target="#headerModal" v-on:click="loadModalImage" data-uri="https://img6.s3wfg.com/web/img/images_uploaded/7/d/c261026grifols.png"&gt;
+&lt;figure&gt;&lt;img class="fullWidth" title="c261026grifols" src="https://img6.s3wfg.com/web/img/images_uploaded/7/d/c261026grifols.png" alt="c261026grifols" data-id="5920835" /&gt;&lt;span&gt;&lt;/span&gt;&lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;iframe src="https://bolsamania.com/module/5561" width="420" height="125"&gt;&lt;/iframe&gt;&lt;/p&gt; </content:encoded>
+      <enclosure url="http://img5.s3wfg.com/web/img/images_uploaded/e/5/brokers750.jpg" type="image/jpeg" length="50592" />
+      <link>https://www.bolsamania.com/noticias/analisis-tecnico/telefonica-y-dos-valores-mas-que-han-perforado-soportes-o-resistencias-este-lunes--23921983.html</link>
+      <author>redaccion@bolsamania.com (César Nuez)</author>
+      <category>Análisis técnico</category>
     </item>
     <item>
       <guid>https://www.bolsamania.com/noticias/empresas/indra-sector-defensa-europeo-suben-posible-aumento-inversion-reino-unido--23922276.html</guid>
@@ -125,38 +388,6 @@ Cinco maneras en que el Presupuesto de Otoño de Reino Unido podría sorprender 
       <link>https://www.bolsamania.com/noticias/empresas/apollo-comprara-participacion-casi-10-mubadala-capital--23922058.html</link>
       <author>redaccion@bolsamania.com (Bolsamanía)</author>
       <category>Empresas</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-semana-de-vertigo-mercados--23920094.html</guid>
-      <pubDate>Mon, 26 Oct 2026 13:01:40 +0100</pubDate>
-      <title> El Ibex, a la cola de Europa arrastrado por Santander y Telefónica tras el triunfo de Lula </title>
-      <description>El Ibex 35 se convierte este lunes claramente en el peor índice europeo, aunque ahora recupera tras llegar a ceder más de un 1% (+0,07%, 19.003 puntos). Esta debilidad se debe al impacto que el inesperado triunfo de Lula da Silva en Brasil está teniendo en las compañías del selectivo con intereses en el país. Santander pierde un 3% (ha llegado a hundirse más de un 5%) y Telefónica alrededor del 6% (en el caso de la operadora hay que añadir además una rebaja de JP Morgan). Mapfre, también con presencia en el país, se deja más de un 2%. </description>
-      <content:encoded> &lt;p&gt;Frente a esto, el resto de bolsas europeas cotizan con alzas, recogiendo el impacto positivo de la decisión de Moody's del viernes por la noche, que finalmente &lt;a href="https://www.bolsamania.com/noticias/economia/francia-evita-rebaja-moodys-bonos-reaccionan-alza--23920302.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;ha dado un voto de confianza a Francia y ha decidido no recortar su calificación&lt;/strong&gt;&lt;/a&gt;, lo que está haciendo &lt;strong&gt;subir el precio de los bonos franceses y bajar sus rentabilidades.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Al otro lado del Atlántico, los futuros vienen en verde en el comienzo de una semana marcada por resultados de grandes tecnológicas allí. Los inversores deben tener presente desde este lunes el cambio de hora en España, que durante unos días modifica el desfase con Estados Unidos. Así, &lt;strong&gt;Wall Street abrirá esta semana a las 14:30 horas y cerrará a las 21:00 horas&lt;/strong&gt;, horario peninsular español.&lt;/p&gt;
-&lt;h3&gt;TRIUNFO INESPERADO&lt;/h3&gt;
-&lt;p&gt;La atención en este comienzo de semana se dirige especialmente a &lt;strong&gt;Brasil, donde Luiz Inácio Lula da Silva se ha impuesto de forma inesperada en la segunda vuelta de las elecciones presidenciales&lt;/strong&gt; celebrada este domingo frente a Flávio Bolsonaro. Lula ha logrado así la reelección para un cuarto mandato no consecutivo después de que Bolsonaro hubiera ganado la primera vuelta y llegara como favorito para numerosos inversores. El resultado está provocando &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/mercados/inesperada-victoria-lula-brasil-sacude-mercado-hunde-etf-pais--23920227.html" rel="noopener noreferrer" target="_blank"&gt;volatilidad en los activos brasileños&lt;/a&gt; (ETF, bolsa, real...) y en otros, como ocurre con los títulos del Ibex con presencia en el país,&lt;/strong&gt; ya que el mercado había realizado apuestas importantes por un cambio de Gobierno.&lt;/p&gt;
-&lt;p&gt;Además, Flávio Bolsonaro se ha negado a reconocer la derrota y ha anunciado que &lt;strong&gt;tratará de impugnar el resultado&lt;/strong&gt;, cuestionando la ampliación en dos horas del horario de votación decidida por el Tribunal Supremo debido a problemas meteorológicos y de transporte. Lula se impuso finalmente por cerca de 4,4 millones de votos.&lt;/p&gt;
-&lt;p&gt;También está en el foco &lt;strong&gt;Francia&lt;/strong&gt;, después de que &lt;strong&gt;Moody's sorprendiera el viernes al&lt;a href="https://www.bolsamania.com/noticias/economia/francia-evita-rebaja-moodys-bonos-reaccionan-alza--23920302.html" rel="noopener noreferrer" target="_blank"&gt; mantener su calificación soberana en 'Aa3', con perspectiva negativa&lt;/a&gt;&lt;/strong&gt;, cuando el mercado esperaba ampliamente una rebaja. La agencia evitó así añadir más presión inmediata sobre el país, aunque condicionó su decisión a que Francia apruebe un presupuesto para 2027 que reduzca el déficit público.&lt;/p&gt;
-&lt;p&gt;El primer ministro francés, Sébastien Lecornu, celebró la decisión en X y aseguró que el anuncio &lt;strong&gt;"desbarata los pronósticos derrotistas" de numerosos expertos&lt;/strong&gt; y de quienes especulan con la deuda francesa. Lecornu añadió que la señal enviada por Moody's demuestra a los acreedores que "existe un camino" y defendió la &lt;strong&gt;necesidad de aprobar antes de final de año un presupuesto compatible con el objetivo de situar el déficit público en el 5% del PIB&lt;/strong&gt;.&lt;/p&gt;
-&lt;h3&gt;EL PETRÓLEO CAE UN 2%&lt;/h3&gt;
-&lt;p&gt;En el mercado de materias primas, el petróleo corrige con cierta fuerza este lunes después del importante repunte del viernes. &lt;strong&gt;El West Texas Intermediate (WTI) cae más de un 2%, hasta el entorno de los 101 dólares por barril&lt;/strong&gt;, mientras que el Brent retrocede cerca de un 1,6%, hasta los 114,82 dólares.&lt;/p&gt;
-&lt;p&gt;Los operadores sopesan, por un lado, el riesgo de nuevos ataques contra infraestructuras energéticas de Arabia Saudí y, por otro, la posibilidad de que los elevados precios del crudo terminen destruyendo demanda.&lt;/p&gt;
-&lt;p&gt;Las caídas llegan &lt;strong&gt;después del fuerte avance registrado el viernes&lt;/strong&gt;, cuando los ataques de los rebeldes hutíes de Yemen contra Arabia Saudí reavivaron el temor a interrupciones en el suministro mundial de energía. Las tensiones continuaron durante el fin de semana, con nuevos ataques contra el aeropuerto de Riad e instalaciones petroleras.&lt;/p&gt;
-&lt;h3&gt;UNA SEMANA CARGADA DE BANCOS CENTRALES, DATOS Y RESULTADOS&lt;/h3&gt;
-&lt;p&gt;Todo ello marca el arranque de &lt;strong&gt;una semana extraordinariamente intensa&lt;/strong&gt;. Este lunes se ha conocido en&lt;strong&gt; Alemania el &lt;a href="https://www.bolsamania.com/noticias/economia/ifo-clima-empresarial-alemania-mejora-octubre-recuperacion-continua--23920990.html" rel="noopener noreferrer" target="_blank"&gt;IFO de octubre&lt;/a&gt;&lt;/strong&gt;, mientras &lt;a href="https://www.bolsamania.com/noticias/empresas/dia-eleva-114-ventas-tercer-trimestre-1987-millones--23920254.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;Dia ha presentado sus ventas&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Los bancos centrales tendrán especial protagonismo en las próximas jornadas. La &lt;strong&gt;Reserva Federal (Fed), el Banco Central Europeo (BCE), el Banco de Japón (BoJ), el Banco de Canadá y el de Nueva Zelanda&lt;/strong&gt; anunciarán sus decisiones de tipos, en unas jornadas que permitirán calibrar el rumbo de la política monetaria en las principales economías.&lt;/p&gt;
-&lt;p&gt;En el frente macroeconómico, los inversores estarán pendientes de los&lt;strong&gt; datos de PIB&lt;/strong&gt; de España, Alemania y la eurozona, de las referencias de &lt;strong&gt;inflación&lt;/strong&gt; en España, Francia y Alemania, del &lt;strong&gt;PIB y el PCE&lt;/strong&gt; de Estados Unidos, así como de distintos indicadores de empleo, confianza y actividad.&lt;/p&gt;
-&lt;p&gt;A todo ello se suma una intensa temporada de resultados. En España rendirán cuentas, entre otras,&lt;strong&gt; Santander, BBVA, Sabadell, CaixaBank, Unicaja, Endesa, Aena, Repsol, Naturgy, Mapfre y Línea Directa&lt;/strong&gt;. Fuera del mercado nacional, el foco estará también en nombres como &lt;strong&gt;Alphabet, Amazon, Microsoft, Boeing, Samsung, Shell y BP.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Además, Reino Unido se presentará el &lt;a href="https://www.bolsamania.com/noticias/economia/cinco-maneras-presupuesto-otono-reino-unido-sorprender-inversores--23875138.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;Presupuesto de Otoño&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;OTROS MERCADOS&lt;/h3&gt;
-&lt;p&gt;El oro sube moderadamente (4.028 dólares) y la plata avanza levemente (53,98 dólares).&lt;/p&gt;
-&lt;p&gt;La rentabilidad del bono del Tesoro estadounidense a 10 años sube al 5,003%.&lt;/p&gt;
-&lt;p&gt;En el mercado de divisas, el EUR/USD cae a 1,1193 dólares.&lt;/p&gt;
-&lt;p&gt;Y el bitcoin recupera los 80.000 dólares (80.346 dólares).&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img5.s3wfg.com/web/img/images_uploaded/a/6/ibex_35_nueva_0.jpg" type="image/jpeg" length="625850" />
-      <link>https://www.bolsamania.com/noticias/cronica-ibex/ibex-europa-subidas-semana-de-vertigo-mercados--23920094.html</link>
-      <author>redaccion@bolsamania.com (Nieves Amigo)</author>
-      <category>Crónica Ibex</category>
     </item>
     <item>
       <guid>https://www.bolsamania.com/noticias/mercados/cnmv-simplifica-obligaciones-informar-autocartera-movimientos-accionariales-opas--23921948.html</guid>
@@ -310,34 +541,6 @@ La inesperada victoria de Lula en Brasil sacude al mercado y hunde los ETF del p
       <enclosure url="http://img.s3wfg.com/web/img/images_uploaded/e/e/lula_20230209175714_rsz.png" type="image/png" length="1314436" />
       <link>https://www.bolsamania.com/noticias/mercados/victoria-lula-agita-mercados-bolsa-brasilena-desplome-real-debilita--23921609.html</link>
       <author>redaccion@bolsamania.com (María Campillo)</author>
-      <category>Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados/inesperada-victoria-lula-brasil-sacude-mercado-hunde-etf-pais--23920227.html</guid>
-      <pubDate>Mon, 26 Oct 2026 12:06:58 +0100</pubDate>
-      <title> La inesperada victoria de Lula en Brasil sacude al mercado y hunde los ETF del país </title>
-      <description>Luiz Inácio Lula da Silva ha logrado un histórico cuarto mandato como presidente de Brasil después de imponerse este domingo a Flávio Bolsonaro en la segunda vuelta de unas elecciones que han dado la sorpresa y que están provocando fuertes movimientos en los activos brasileños. </description>
-      <content:encoded> &lt;p&gt;Con el escrutinio completado, &lt;strong&gt;Lula obtuvo 64,26 millones de votos, el 51,79% de los sufragios válidos&lt;/strong&gt;, frente a los 59,83 millones de Bolsonaro, que consiguió el 48,21%, según los datos oficiales del Tribunal Superior Electoral (TSE).&lt;/p&gt;
-&lt;p&gt;El resultado supone además un hito en la historia electoral reciente del país: es la primera vez desde el regreso de las elecciones presidenciales directas, en 1989, que un candidato consigue imponerse en la segunda vuelta después de haber perdido la primera. &lt;strong&gt;Lula, de 80 años, gobernará Brasil entre 2027 y 2030.&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote class="right"&gt;La victoria ha sorprendido al mercado, que había elevado sus apuestas por Bolsonaro después de su triunfo en la primera vuelta&lt;/blockquote&gt;
-&lt;p&gt;La victoria ha &lt;strong&gt;sorprendido al mercado&lt;/strong&gt;, que en las últimas semanas había elevado sus apuestas por Bolsonaro después de su triunfo en la primera vuelta. Los inversores veían al candidato conservador como &lt;strong&gt;una opción más favorable&lt;/strong&gt; para impulsar una &lt;strong&gt;mayor disciplina fiscal y medidas de desregulación.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;La reacción no se ha hecho esperar. El &lt;strong&gt;iShares MSCI Brazil ETF (EWZ)&lt;/strong&gt;, uno de los principales vehículos utilizados en Estados Unidos para invertir en la bolsa brasileña, &lt;strong&gt;llegó a desplomarse cerca de un 20% en la negociación nocturna&lt;/strong&gt;, mientras que un &lt;strong&gt;ETF sobre Brasil cotizado en Tokio llegó a perder alrededor de un 15%-16%&lt;/strong&gt;. Los futuros sobre el real brasileño también llegaron a caer alrededor de un 10%.&lt;/p&gt;
-&lt;p&gt;Estos movimientos anticipan una sesión de &lt;strong&gt;elevada volatilidad cuando abran los mercados brasileños&lt;/strong&gt;, después de que tanto la bolsa como la divisa hubieran subido con fuerza antes de las elecciones ante la expectativa de una victoria de Bolsonaro. 'Reuters' señala que las acciones brasileñas habían avanzado cerca de un 7% y el real se había apreciado alrededor de un 5% en el periodo previo a la votación. En España, este resultado está impactando en las compañías con intereses en el país, como &lt;strong&gt;Telefónica, Santander, Mapfre...&lt;/strong&gt;, que &lt;a href="https://www.bolsamania.com/noticias/mercados/santander-telefonica-reeleccion-lula-brasil-golpea-fuerza-ibex--23920567.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;lo recogen con fuertes recortes&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;BOLSONARO NO RECONOCE LA DERROTA&lt;/h3&gt;
-&lt;p&gt;La incertidumbre política se ha visto además incrementada después de que &lt;strong&gt;Flávio Bolsonaro se negara a reconocer el resultado y anunciara que tratará de conseguir su anulación.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Bolsonaro ha cuestionado la decisión del juez del Tribunal Supremo Cristiano Zanin de &lt;strong&gt;ampliar durante dos horas la votación en determinados centros&lt;/strong&gt;, una medida adoptada después de los problemas registrados durante la jornada electoral. El TSE explicó que la votación únicamente continuó en aquellos lugares en los que todavía no había terminado a las 17:00 horas.&lt;/p&gt;
-&lt;p&gt;La campaña estuvo marcada por &lt;strong&gt;denuncias cruzadas sobre dificultades para votar&lt;/strong&gt;. El equipo de Lula denunció problemas con el transporte público en algunas zonas, mientras que el de Bolsonaro había reclamado también una ampliación del horario por las fuertes lluvias que afectaron a colegios electorales del sur del país.&lt;/p&gt;
-&lt;p&gt;Reuters señala, no obstante, que &lt;strong&gt;los analistas consideran muy improbable que prospere una eventual anulación&lt;/strong&gt;, aunque el desafío de Bolsonaro puede incrementar la tensión política y abrir la puerta a protestas.&lt;/p&gt;
-&lt;h3&gt;EL MERCADO MIRA AHORA A LA DEUDA&lt;/h3&gt;
-&lt;p&gt;Más allá de la disputa electoral, el gran reto de Lula será &lt;strong&gt;convencer a los mercados de que puede estabilizar las finanzas públicas brasileñas&lt;/strong&gt;. La deuda bruta del país &lt;strong&gt;supera ya el 82% del PIB&lt;/strong&gt;, mientras los elevados tipos de interés y el peso del gasto obligatorio limitan el margen fiscal del Gobierno.&lt;/p&gt;
-&lt;blockquote class="right"&gt;Rabobank cree que la victoria de Lula supone también un revés para la Administración Trump en sus esfuerzos por reforzar la influencia en América Latina&lt;/blockquote&gt;
-&lt;p&gt;Los inversores estarán especialmente atentos a las &lt;strong&gt;primeras señales sobre el presupuesto de 2027&lt;/strong&gt;, el control del gasto y la elección del próximo ministro de Finanzas.&lt;/p&gt;
-&lt;p&gt;Rabobank destaca precisamente que las elecciones, la guerra y los bancos centrales serán los grandes factores capaces de generar volatilidad esta semana. La firma recuerda que los mercados de predicción habían favorecido a Bolsonaro antes de la votación y considera que &lt;strong&gt;la victoria de Lula supone también un revés para la Administración Trump&lt;/strong&gt; en sus esfuerzos por reforzar la influencia estadounidense en América Latina.&lt;/p&gt;
-&lt;p&gt;Brasil ha ganado además relevancia estratégica en los últimos meses por su &lt;strong&gt;papel en los mercados energéticos&lt;/strong&gt;. Según Rabobank, &lt;strong&gt;sus exportaciones de petróleo crecieron un 17% interanual hasta septiembre&lt;/strong&gt; y llegaron a superar ese mes a la soja como principal producto de exportación del país. &lt;strong&gt;China&lt;/strong&gt; sigue siendo el mayor comprador tanto de crudo como de soja brasileña, un elemento que añade una dimensión geopolítica al resultado electoral.&lt;/p&gt;
-&lt;p&gt;Lula tendrá, además, que gobernar con un Congreso difícil. &lt;strong&gt;El Partido Liberal de Bolsonaro conserva una importante representación parlamentaria&lt;/strong&gt;, lo que puede limitar la capacidad del presidente para sacar adelante su agenda económica y social durante los próximos cuatro años.&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img1.s3wfg.com/web/img/images_uploaded/1/d/le-president-bresilien-luiz-inacio-lula-da-silva_20250722081138_rsz.jpg" type="image/jpeg" length="351891" />
-      <link>https://www.bolsamania.com/noticias/mercados/inesperada-victoria-lula-brasil-sacude-mercado-hunde-etf-pais--23920227.html</link>
-      <author>redaccion@bolsamania.com (Nieves Amigo)</author>
       <category>Mercados</category>
     </item>
     <item>
@@ -17865,243 +18068,6 @@ Reunión Trump-Xi: "La ausencia de tensiones sería por sí sola una buena notic
       <link>https://www.bolsamania.com/noticias/mercados/snb-banco-nacional-suiza-mantiene-sin-cambios-tipos-interes-0--23661610.html</link>
       <author>irene.hernandez@vortexmedia.es (Irene Hernández)</author>
       <category>Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/resultados-anuncios/hm-gana-13-mas-nueve-primeros-meses-ejercicio-sorprende-mercado--23661810.html</guid>
-      <pubDate>Thu, 24 Sep 2026 10:11:58 +0200</pubDate>
-      <title> H&amp;M gana un 13% más en los nueve primeros meses del ejercicio y sorprende al mercado </title>
-      <description>La cadena de moda sueca H&amp;M ha informado que su beneficio después de impuestos creció un 13% en los primeros nueve meses de 2026, hasta 8.765 millones de coronas suecas. Solo en el tercer trimestre fiscal, las ganancias de la compañía ascendieron a 4.098 millones de coronas, un 27% más que hace un año. </description>
-      <content:encoded> &lt;p&gt;Asimismo, el &lt;strong&gt;beneficio operativo&lt;/strong&gt; de la firma escandinava en el tercer trimestre fiscal aumentó hasta los &lt;strong&gt;6.040 millones de coronas&lt;/strong&gt;, frente a los 4.910 millones de coronas del mismo periodo del año anterior y a la previsión de 5.140 millones de coronas del consenso de mercado. En los primeros nueve meses del ejercicio, el beneficio bruto totalizó &lt;strong&gt;87.050 millones de coronas suecas &lt;/strong&gt;en comparación con los 88.737 millones de hace un año, lo que corresponde a un &lt;strong&gt;margen bruto del 53,9%&lt;/strong&gt; frente al 52,5% registrado en el mismo período de 2025.&lt;/p&gt;
-&lt;p&gt;Según ha explicado la compañía, el margen operativo del trimestre se vio favorecido positivamente por &lt;strong&gt;efectos extraordinarios de aproximadamente 1,6 puntos porcentuales&lt;/strong&gt; derivados de los aranceles y de las importaciones de mercancías, que habían incrementado el coste de los productos vendidos en trimestres anteriores.&lt;/p&gt;
-&lt;p&gt;Las &lt;strong&gt;ventas netas&lt;/strong&gt; aumentaron hasta &lt;strong&gt;57.189 millones de coronas suecas&lt;/strong&gt; en el tercer trimestre. Las ventas en monedas locales aumentaron un 1% respecto al año anterior, con aproximadamente un 2% menos de tiendas al cierre del trimestre que en el mismo momento del año pasado. En los primeros nueve meses, las ventas netas del grupo escandinavo ascendieron a 161.624 millones de coronas suecas y no variaron significativamente en monedas locales. Además, H&amp;M ha indicado que &lt;strong&gt;proyecta un incremento de las ventas de un punto porcentual&lt;/strong&gt; en monedas locales en el mes de &lt;strong&gt;septiembre&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Asimismo, entre diciembre y agosto el flujo de caja procedente de las actividades operativas aumentó un 17%, hasta 26.524 millones de coronas suecas. En el tercer trimestre, el incremento de esta magnitud fue del 19%, hasta 11.908 millones de coronas suecas (9.985 millones).&lt;/p&gt;
-&lt;p&gt;Las existencias ascendieron a 39.355 millones de coronas suecas (37.938 millones), y su composición es "buena", según ha explicado la compañía. "El aumento de las existencias se explica por el mayor valor de las mercancías en tránsito, debido a las interrupciones en las cadenas de suministro globales, así como por efectos temporales derivados del proceso de consolidación de la red logística europea", ha precisado H&amp;M.&lt;/p&gt;
-&lt;p&gt;Según Daniel Ervér, CEO de H&amp;M, &lt;strong&gt;las mejoras en las compras, el control de costes y la eficiencia operativa contribuyeron a hacer más rentable el negocio&lt;/strong&gt; de la cadena de moda escandinava. "Aunque las ventas evolucionaron positivamente durante el trimestre, vemos más potencial para aumentarlas de cara al futuro", ha asegurado el ejecutivo, "Nuestras colecciones de verano tuvieron una buena acogida y contribuyeron a una mejor evolución de las ventas, especialmente hacia el final del trimestre".&lt;/p&gt;
-&lt;p&gt;El CEO también ha indicado que &lt;strong&gt;H&amp;M está aumentando la proporción de prendas que compra durante la propia temporada&lt;/strong&gt;, en un intento por reaccionar más rápidamente a las tendencias de moda, los gustos de los consumidores y unas condiciones meteorológicas cada vez más impredecibles. "Mediante una cartera de tiendas más optimizada, un mayor número de tiendas renovadas y una experiencia digital más personalizada, también estamos mejorando la experiencia del cliente, así como la productividad tanto en las tiendas como online", ha agregado el ejecutivo.&lt;/p&gt;
-&lt;p&gt;Ervér se convirtió en consejero delegado en enero de 2024 con el mandato de mejorar la rentabilidad y reforzar la marca sueca. Sin embargo, los inversores llevan tiempo esperando señales de que H&amp;M vuelva a la senda del crecimiento ante la cada vez &lt;a href="https://www.bolsamania.com/noticias/analisis-fundamental/inditex-hm-analistas-rey-sector-moda--20505714.html"&gt;&lt;strong&gt;más fiera competencia de Shein y de Inditex, propietaria de Zar&lt;/strong&gt;&lt;/a&gt;a.&lt;/p&gt;
-&lt;p&gt;Recientemente, la familia &lt;strong&gt;Persson&lt;/strong&gt;, fundadora y principal accionista de H&amp;M, ha estado &lt;a href="https://www.bolsamania.com/noticias/empresas/familia-fundadora-hm-eleva-participacion-alimenta-rumores-salida-bolsa--23648276.html"&gt;&lt;strong&gt;reforzando su posición en el capital de la compañía&lt;/strong&gt;&lt;/a&gt;. Ramsbury Invest, el holding de la familia Persson &amp;mdash;propiedad principal de Stefan Persson, la persona más rica de Suecia&amp;mdash;, ha adquirido &lt;strong&gt;36,8 millones de acciones&lt;/strong&gt; de H&amp;M en lo que va de año, según muestran los registros regulatorios y ha avanzado 'Reuters'.&lt;/p&gt;
-&lt;p&gt;Las nuevas compras de acciones elevan su participación &lt;strong&gt;por encima del 68%&lt;/strong&gt; y reavivan las especulaciones del mercado sobre el futuro de la cadena de moda, incluida una &lt;strong&gt;eventual salida de bolsa&lt;/strong&gt;, en un momento en el que el crecimiento de las ventas sigue sin cumplir las expectativas. "Es muy difícil interpretarlo de otra manera que no sea que su estrategia consiste en ir comprando la empresa poco a poco", ha señalado Sverre Linton, responsable jurídico de la Asociación Sueca de Accionistas, que representa a los minoritarios. &lt;strong&gt;"Podría decirse que es la opa de exclusión más lenta de Suecia"&lt;/strong&gt;. Bajo la normativa sueca, los accionistas que poseen el 90% de una sociedad pueden forzar la compra de las acciones restantes.&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img4.s3wfg.com/web/img/images_uploaded/7/4/dl-hm-h-m-h-and-m-handm-logo-generic.jpg" type="image/jpeg" length="51637" />
-      <link>https://www.bolsamania.com/noticias/resultados-anuncios/hm-gana-13-mas-nueve-primeros-meses-ejercicio-sorprende-mercado--23661810.html</link>
-      <author>redaccion@bolsamania.com (Álvaro Estévez)</author>
-      <category>Resultados y anuncios</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/empresas/openai-agentes-ia-hackea-web-gobierno-australia--23661026.html</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:49 +0200</pubDate>
-      <title> OpenAI: uno de sus agentes de IA hackea una web del gobierno de Australia </title>
-      <description>OpenAI vuelve a estar en el punto de mira. Uno de los agentes de inteligencia artificial (IA) desarrollado por la compañía ha hackeado una web del gobierno de Australia, según ha confirmado el primer ministro del país, Anthony Albanese. Este acceso no autorizado vuelve a plantear dudas sobre la seguridad de los sistemas de IA, cada vez más autónomos. </description>
-      <content:encoded> &lt;p&gt;La intrusión ocurrió el 18 de junio, aunque no se ha conocido hasta ahora. Según se ha desvelado, involucró a un agente de OpenAI que &lt;strong&gt;accedió al portal del servicio de informes estadísticos de Medicare&lt;/strong&gt;, administrado por Services Australia, tal y como ha confirmado Albanese.&lt;/p&gt;
-&lt;p&gt;El agente de IA de OpenAI accedió tanto a archivos públicos como no públicos, ha reconocido el primer ministro. Y aunque el gobierno australiano cree que no logró acceder a información de carácter personal, no lo puede asegurar al 100%. Según ha dicho el dirigente, actualmente se está llevando a cabo una investigación forense al respecto para determinar esta cuestión.&lt;/p&gt;
-&lt;div class="read-more-links"&gt;
-&lt;h5&gt;Noticia relacionada&lt;/h5&gt;
-&lt;a class="readMore" href="https://www.bolsamania.com/noticias/empresas/openai-revela-seis-nuevos-incidentes-preocupantes-agentes-ia--23602606.html" rel="noopener noreferrer" target="_blank" data-id="23602606"&gt;
-&lt;figure&gt;&lt;img class="lazy" title="Leer más" data-original="https://img2.s3wfg.com/web/img/images_uploaded/f/7/photo-d-illustration-du-logo-openai_rsz.jpg" data-src="https://img2.s3wfg.com/web/img/images_uploaded/f/7/photo-d-illustration-du-logo-openai_rsz.jpg" /&gt;&lt;/figure&gt;
-OpenAI revela seis nuevos incidentes "preocupantes" con sus agentes de IA &lt;/a&gt;&lt;/div&gt;
-&lt;p&gt;Cabe destacar que Medicare es un portal que contiene información médica no sensible, incluidas estadísticas sobre gastos del gobierno en Sanidad.&lt;/p&gt;
-&lt;p&gt;Este incidente se produce en un momento delicado, y es que las empresas de IA, entre ellas la propia OpenAI, llevan semanas pidiendo &lt;a href="https://www.bolsamania.com/noticias/empresas/openai-anthropic-frenar-avance-ia-altman-descarta-salir-bolsa-este-ano--23561028.html" rel="noopener noreferrer" target="_blank"&gt;&lt;strong&gt;pausar los desarrollos más avanzados&lt;/strong&gt;&lt;/a&gt; precisamente para valorar la seguridad de los mismos.&lt;/p&gt;
-&lt;p&gt;Sobre todo porque actualmente desarrollan agentes capaces de realizar tareas de varios pasos e interactuar con sitios web y software externos con menor intervención humana, lo que está generando dudas sobre cómo estas compañías pueden prevenir &lt;strong&gt;comportamientos inesperados a medida que la tecnología adquiere mayor autonomía&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Albanese ha confirmado que ha hablado con el director ejecutivo de OpenAI, &lt;strong&gt;Sam Altman&lt;/strong&gt;, para expresar la "extrema preocupación" de Australia por el incidente, y ha criticado el tiempo que tardó la empresa en notificarlo al gobierno.&lt;/p&gt;
-&lt;p&gt;Y es que OpenAi no informó a las autoridades australianas hasta el 10 de septiembre, casi tres meses después del incidente, que se había producido en junio.&lt;/p&gt;
-&lt;p&gt;Según OpenAI, el acceso no autorizado tuvo lugar durante una evaluación interna, mientras sus modelos intentaban buscar respuestas y estadísticas sobre Australia. "En el transcurso de esa actividad, &lt;strong&gt;nuestros modelos realizaron acciones que no habíamos previsto&lt;/strong&gt;", ha dicho un portavoz de la compañía, según recoge 'CNBC'.&lt;/p&gt;
-&lt;p&gt;OpenAI ha explicado que en su revisión de lo sucedido no ha hallado pruebas de que su agente hubiera accedido a historiales de pacientes, sino que la información consultada incluía estadísticas sanitarias agregadas y nombres de archivos internos.&lt;/p&gt;
-&lt;p&gt;Y la compañía se ha defendido de las críticas de Australia asegurando que &lt;strong&gt;aunque el hackeo ocurrió en junio, no fue hasta agosto cuando tuvo conocimiento del mismo&lt;/strong&gt;, ya que lo descubrió mientras realizaba una revisión continua de lo que denomina "actividad de modelos desalineados".&lt;/p&gt;
-&lt;p&gt;Antes de este incidente, la polémica también ha envuento a los agentes de IA de OpenAI por intentar acceder sin autorización a una &lt;strong&gt;biblioteca digital de la Universidad de Nuevo México&lt;/strong&gt; y a &lt;strong&gt;Data USA&lt;/strong&gt; -una plataforma que ofrece datos públicos sobre empleo y educación en Estados Unidos- sin haber recibido instrucciones para ello.&lt;/p&gt;
-&lt;p&gt;Aunque el incidente más notable hasta la fecha ocurrió en julio, cuando los modelos de OpenAI eludieron los controles diseñados para aislarlos de Internet y comprometieron partes de la infraestructura de investigación interna de la empresa, así como los sistemas de la plataforma para desarrolladores &lt;strong&gt;Hugging Face&lt;/strong&gt;.&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/c/6/openai_logo_nueva.jpg" type="image/jpeg" length="308776" />
-      <link>https://www.bolsamania.com/noticias/empresas/openai-agentes-ia-hackea-web-gobierno-australia--23661026.html</link>
-      <author>redaccion@bolsamania.com (Bolsamanía)</author>
-      <category>Empresas</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados/signo-mixto-asia-tras-repunte-petroleo-rendimiento-bonos--23661384.html</guid>
-      <pubDate>Thu, 24 Sep 2026 09:36:11 +0200</pubDate>
-      <title> Signo mixto en Asia tras el repunte del petróleo y el rendimiento de los bonos </title>
-      <description>Las bolsas de la región Asia-Pacífico han cerrado mixtas este jueves tras el repunte del precio del petróleo y la rentabilidad de los bonos, mientras los inversores permanecen a la espera de la reunión entre el presidente de EEUU, Donald Trump, y su homólogo chino Xi Jinping. </description>
-      <content:encoded> &lt;p&gt;"En estos momentos, todo parece indicar que esta reunión entre ambos dirigentes se encamina, sobre todo, hacia la &lt;strong&gt;búsqueda de una distensión&lt;/strong&gt;, más que un nuevo enfrentamiento", dice Sebastian Paris Horvitz, director de análisis de LBP AM, accionista de LFDE.&lt;/p&gt;
-&lt;p&gt;A este respecto, el secretario del Tesoro estadounidense, Scott Bessent, ha avanzado que ambos países han llegado a un acuerdo para &lt;strong&gt;&lt;a href="https://www.bolsamania.com/noticias/economia/eeuu-china-prorrogan-dos-meses-tregua-comercial-20-enero--23660042.html" rel="noopener noreferrer" target="_blank"&gt;prorrogar dos meses la tregua comercial&lt;/a&gt;&lt;/strong&gt;, que terminaba el 10 de noviembre, y que permitirá mantener los &lt;strong&gt;aranceles bajos&lt;/strong&gt; durante más tiempo y asegurar el flujo de tierras raras.&lt;/p&gt;
-&lt;p&gt;El viaje de Xi a EEUU sirve para &lt;strong&gt;mantener vivas las relaciones&lt;/strong&gt; tras la visita que Trump realizó a Pekín en mayo. Además, se especula con que ambos líderes también podrían reunirse al margen de la cumbre de la APEC en Shenzhen, en noviembre, y de la cumbre del G20 en Miami, en diciembre.&lt;/p&gt;
-&lt;p&gt;Tras su llegada a EEUU, el mandatario chino ha expresado su confianza en que la visita arrojará &lt;strong&gt;"resultados fructíferos"&lt;/strong&gt; para ambas partes, y ha afirmado que los dos países deben ser socios, no rivales, y trabajar para construir una relación estable en la que se gestionen la competencia y las diferencias.&lt;/p&gt;
-&lt;p&gt;Del mismo modo, tal y como indican los expertos de Link Securities, "hay otros asuntos, como &lt;strong&gt;Taiwán&lt;/strong&gt;, la guerra de Oriente Medio, las restricciones a las &lt;strong&gt;exportaciones tecnológicas&lt;/strong&gt;, el desarrollo de la inteligencia artificial (IA) y las salvaguardias relacionadas con esta tecnología, que serán abordados en la reunión y que podrían generar nuevos titulares".&lt;/p&gt;
-&lt;p&gt;"&lt;strong&gt;No se esperan concesiones relevantes&lt;/strong&gt; en controles de exportación de semiconductores avanzados ni de tierras raras y minerales críticos, ni resoluciones sobre Taiwán. &lt;strong&gt;Uno de los principales focos de atención será Irán&lt;/strong&gt;, ante la intención de EEUU de imponer sanciones secundarias a aquellos países que colaboren con el régimen iraní, sanciones con las que China (principal sostén financiero de Irán) está en desacuerdo", valoran en Renta 4 Banco.&lt;/p&gt;
-&lt;p&gt;Todo ello, en un contexto marcado por la subida de los rendimientos de los bonos globales ante las crecientes apuestas a favor de nuevas subidas de los tipos de interés. Es más, la &lt;strong&gt;rentabilidad de los bonos a 10 años de Japón&lt;/strong&gt; ha alcanzado su máximo en 30 años a medida que las preocupaciones sobre las presiones inflacionarias se han visto agravadas por un yen más débil.&lt;/p&gt;
-&lt;p&gt;Por otro lado, cabe destacar que las acciones&lt;strong&gt; SoftBank&lt;/strong&gt; han subido más de un 7% después de que el grupo tecnológico japonés haya colocado bonos por valor de 11.100 millones de dólares, denominados en dólares y euros, en la que se perfila como la mayor emisión de deuda de alto rendimiento realizada por un emisor de Asia-Pacífico. Los fondos se destinarán a &lt;strong&gt;financiar su inversión en OpenAI&lt;/strong&gt; y otros proyectos vinculados a la IA.&lt;/p&gt;
-&lt;p&gt;Así, el &lt;strong&gt;Nikkei 225 de Japón&lt;/strong&gt; ha sumado un 0,76% hasta los 65.513 puntos -tras un festivo de tres días-, mientras que el &lt;strong&gt;Topix&lt;/strong&gt; ha finalizado la sesión con un caída del 0,39%. El índice de referencia australiano &lt;strong&gt;S&amp;P/ASX 200&lt;/strong&gt; ha perdido un 0,72%; en cambio, el &lt;strong&gt;Kospi&lt;/strong&gt; de Corea del Sur ha repuntado un 0,90%. El &lt;strong&gt;CSI 300&lt;/strong&gt; de China continental ha retrocedido un 1,73% y el &lt;strong&gt;Hang Seng&lt;/strong&gt; de Hong Kong ha bajado un 0,28%.&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img6.s3wfg.com/web/img/images_uploaded/7/6/un-billet-de-yen-japonais-dans-une-imprimerie-de-l-office-national-d-impression-des-billets-de-la-banque-du-japon-a-tokyo_20241219071023_rsz.jpg" type="image/jpeg" length="301510" />
-      <link>https://www.bolsamania.com/noticias/mercados/signo-mixto-asia-tras-repunte-petroleo-rendimiento-bonos--23661384.html</link>
-      <author>redaccion@bolsamania.com (María Campillo)</author>
-      <category>Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/economia/precios-industriales-suben-132-agosto-energia-tasa-mas-alta-2022--23661352.html</guid>
-      <pubDate>Thu, 24 Sep 2026 09:29:06 +0200</pubDate>
-      <title> Los precios industriales suben un 13,2% en agosto por la energía, la tasa más alta desde 2022 </title>
-      <description>La inflación industrial se disparó hasta el 13,2% en agosto frente al mismo mes del año pasado, tasa 3,8 puntos por encima de la de julio y la más alta registrada desde diciembre de 2022, según los datos del Índice de Precios Industriales (IPRI) publicados por el Instituto Nacional de Estadística (INE). </description>
-      <content:encoded> &lt;p&gt;De esta manera, los precios industriales encadenan &lt;strong&gt;seis meses consecutivos de ascensos&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Entre los sectores industriales que tuvieron influencia positiva destaca la &lt;strong&gt;energía&lt;/strong&gt;, que incrementó su variación anual 12,1 puntos, hasta &lt;strong&gt;el 33,3%&lt;/strong&gt;, a causa de la subida de los precios de la producción, transporte y distribución de energía eléctrica, del refino de petróleo y, en menor medida, de la producción de gas, frente al descenso en agosto de 2025.&lt;/p&gt;
-&lt;p&gt;De hecho, los precios industriales &lt;strong&gt;sin energía&lt;/strong&gt; aumentaron una décima y el índice se situó en &lt;strong&gt;el 3,5%&lt;/strong&gt;, lo que es 9,7 puntos por debajo de la inflación industrial general.&lt;/p&gt;
-&lt;p&gt;Por su parte, el único sector industrial que tuvo influencia negativa fueron los &lt;strong&gt;bienes de consumo no duraderos&lt;/strong&gt;, con una tasa &lt;strong&gt;del 0,2%&lt;/strong&gt;, tres décimas por debajo de la de julio, debido al descenso de los precios de la fabricación de aceites y grasas vegetales y animales, que aumentaron en el mismo mes del año pasado.&lt;/p&gt;
-&lt;p&gt;Por CCAA, hubo variaciones anuales positivas en todas. Las &lt;strong&gt;tasas más altas&lt;/strong&gt; se dieron en Principado de Asturias (27,3%), Canarias (27,3%) y Baleares (24,3%), mientras que, por el contrario, Extremadura (5%), Cantabria (6%) y Comunidad Foral de Navarra (6,8%) presentaron los &lt;strong&gt;menores aumentos&lt;/strong&gt;.&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/3/a/stockage-de-matiere-chez-bleneau-industrie-dans-l-yonne_rsz.jpg" type="image/jpeg" length="482632" />
-      <link>https://www.bolsamania.com/noticias/economia/precios-industriales-suben-132-agosto-energia-tasa-mas-alta-2022--23661352.html</link>
-      <author>irene.hernandez@vortexmedia.es (Irene Hernández)</author>
-      <category>Economía</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/los-peores-del-ibex-a-esta-hora-grifols--109-cellnex--104-e-indra--096--23661316.html</guid>
-      <pubDate>Thu, 24 Sep 2026 09:19:19 +0200</pubDate>
-      <title> Los peores del Ibex a esta hora: Grifols (-1,09%), Cellnex (-1,04%) e Indra (-0,96%) </title>
-      <description> </description>
-      <content:encoded>  </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="482632" />
-      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/los-peores-del-ibex-a-esta-hora-grifols--109-cellnex--104-e-indra--096--23661316.html</link>
-      <author>redaccion@bolsamania.com (Bolsamanía)</author>
-      <category>Última Hora Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/los-mejores-del-ibex-en-la-apertura-solaria-185-puig-149-y-repsol-111--23661310.html</guid>
-      <pubDate>Thu, 24 Sep 2026 09:17:51 +0200</pubDate>
-      <title> Los mejores del Ibex en la apertura: Solaria (+1,85%), Puig (+1,49%) y Repsol (+1,11%) </title>
-      <description> </description>
-      <content:encoded>  </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="482632" />
-      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/los-mejores-del-ibex-en-la-apertura-solaria-185-puig-149-y-repsol-111--23661310.html</link>
-      <author>redaccion@bolsamania.com (Bolsamanía)</author>
-      <category>Última Hora Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/el-ibex-abre-plano-006-en-los-19644-puntos--23661284.html</guid>
-      <pubDate>Thu, 24 Sep 2026 09:16:51 +0200</pubDate>
-      <title> El Ibex abre plano (+0,06%), en los 19.644 puntos </title>
-      <description> </description>
-      <content:encoded>  </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="482632" />
-      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/el-ibex-abre-plano-006-en-los-19644-puntos--23661284.html</link>
-      <author>redaccion@bolsamania.com (Bolsamanía)</author>
-      <category>Última Hora Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados/wall-street-miercoles-23-septiembre-2026-euforia-ia--23650340.html</guid>
-      <pubDate>Wed, 23 Sep 2026 22:12:25 +0200</pubDate>
-      <title> Wall Street cae, con el Nasdaq liderando las ventas, lastrado por las subidas del petróleo </title>
-      <description>Wall Street ha registrado caídas este miércoles en sus tres principales índices. El Dow Jones (-0,68%) y S&amp;P 500 (-0,75%) han retrocedido y el Nasdaq, que esta semana renovó máximos, ha liderado las ventas con una caída del 1,13%. Así pues, los mercados se han visto afectados por las subidas del precio del petróleo, que tras registrar caídas en estos últimos días hoy han vuelto a subir tras incrementarse la tensión entre EEUU e Irán. En concreto, el barril Brent ha subido un 4,21%, hasta los 103,43 dólares y el West Texas un 2,26%, hasta los 92,57 dólares. </description>
-      <content:encoded> &lt;p&gt;En concreto, el barril Brent ha subido un 4,21%, hasta los 103,43 dólares y el West Texas un 2,26%, hasta los 92,57 dólares.&lt;/p&gt;
-&lt;p&gt;En la jornada de hoy, el presidente iraní, Masoud Pezeshkian, &lt;a href="https://www.bolsamania.com/noticias/internacional/pezeshkian-promete-en-la-onu-que-iran-aguantara-hasta-el-ultimo-aliento-y-carga-contra-eeuu-e-israel--23656612.html"&gt;ha respondido a Trump,&lt;/a&gt; quien el martes amenazó con aniquilar a Irán si no llegaba a un acuerdo de paz, pero se mostró esperanzado de lograr dicho acuerdo de paz tras las 'mid-terms'.&lt;/p&gt;
-&lt;p&gt;Pezeshkian, quien se ha convertido en el primer presidente en hablar en la Asamblea General de la ONU mientras mantiene una guerra con EEUU, ha cargado contra Israel y EEUU, a los que ha acusado de lanzar ataques ilegales contra civiles e infraestructuras de su país. Además, ha prometido que Irán aguantará "hasta el último aliento"&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Respecto a la jornada del martes, Ipek Ozkardeskaya, analista sénior en Swissquote Bank&lt;/strong&gt;, ha explicado que "un nuevo retroceso en los precios del petróleo impulsó a la baja los rendimientos globales y brindó apoyo a la renta variable, mientras que el sector tecnológico se vio impulsado por la euforia en torno a Muse AI".&lt;/p&gt;
-&lt;p&gt;"El&lt;strong&gt; índice Nasdaq Composite alcanzó un máximo histórico&lt;/strong&gt;. Sin embargo, los bancos, las aseguradoras y las agencias de viajes sintieron el impacto negativo, temiendo que Muse AI (y tecnologías similares) alteraran negocios que hasta ahora se habían beneficiado de la inercia del consumidor (esos hábitos que mantienen a los clientes fieles a un servicio incluso cuando existen mejores ofertas en el mercado)", ha agregado&lt;/p&gt;
-&lt;p&gt;Para la analista resulta curioso que el abaratamiento del petróleo no se ha traducido en &lt;strong&gt;un dólar estadounidense más barato en lo que va de semana&lt;/strong&gt;, tal vez porque los precios de los productos refinados siguen disparándose. "Los precios del diésel, por ejemplo, alcanzaron un nuevo máximo histórico a pesar del retroceso del crudo, lo que, según su criterio, "advierte que los márgenes de refinado (crack spreads) &amp;mdash;la diferencia entre el precio del crudo y el de los productos refinados&amp;mdash; serán más difíciles de comprimir mientras no se restablezca el suministro", ha señalado.&lt;/p&gt;
-&lt;p&gt;"Cabe señalar que el fuerte aumento de los costes de transporte marítimo también está lastrando &amp;mdash;&lt;strong&gt;y podría seguir haciéndolo&lt;/strong&gt;&amp;mdash; la demanda de crudo por parte de las refinerías. El precio de referencia del crudo no refleja el coste total de llevar un barril a la refinería: los costes de flete han aumentado drásticamente, lo que eleva el coste efectivo del crudo muy por encima de lo que sugieren los precios de referencia", ha agregado.&lt;/p&gt;
-&lt;p&gt;Así, cree que "esto&lt;strong&gt; también puede debilitar la demanda de las refinerías y presionar a la baja los precios del crudo,&lt;/strong&gt; incluso cuando las presiones de costes en etapas posteriores de la cadena de suministro siguen siendo intensas; esto ayuda a explicar por qué los precios de los productos refinados pueden seguir subiendo mientras los del crudo bajan, y por qué las expectativas de inflación no necesariamente se moderarán al mismo ritmo que los precios al contado del crudo o el gas".&lt;/p&gt;
-&lt;p&gt;Por otro lado,  ha recordado que&lt;strong&gt; el presidente de EEUU, Donald Trump&lt;/strong&gt;, "respaldó la idea de prohibir las exportaciones estadounidenses de diésel para aliviar los precios; un anuncio que me deja atónita, no solo porque proviene de un país profundamente involucrado en el conflicto de Oriente Medio &amp;mdash;y, por tanto, corresponsable en parte de la crisis energética&amp;mdash;, sino también porque ¡la medida no funcionará!".&lt;/p&gt;
-&lt;p&gt;"Actualmente,&lt;strong&gt; EEUU suministra aproximadamente el 20% del diésel comercializado por vía marítima a nivel mundial,&lt;/strong&gt; lo que lo convierte en la mayor fuente individual de exportaciones de diésel del planeta. Si restringe las exportaciones, los precios mundiales del diésel podrían dispararse. Además, dado que las refinerías estadounidenses perderían parte de su mercado de exportación, podrían optar simplemente por producir menos, lo que acabaría restringiendo el suministro de otros combustibles en el mercado interno. Sería contraproducente. Una idea pésima", ha valorado.&lt;/p&gt;
-&lt;h3&gt;AGENDA Y OTROS MERCADOS&lt;/h3&gt;
-&lt;p&gt;En la agenda de este miércoles, cabe destacar que el índice PMI compuesto de producción de Estados Unidos de S&amp;P Global ha mostrado un crecimiento mayor del esperado. En concreto, se situó en 58,4 puntos en septiembre, 2,4 puntos más que en el mes agosto y la expansión más rápida desde julio de 2021. &lt;/p&gt;
-&lt;p&gt;En &lt;strong&gt;otros mercados&lt;/strong&gt;, el par EUR/USD se ha depreciado alrededor de un 0,53%, hasta 1,1386 y la onza de oro ha caído un 1,20%, hasta los 4.320 dólares y la plata un 2,49%, hasta los 64.865 dólares.&lt;/p&gt;
-&lt;p&gt;Por último, los rendimientos del bono estadounidense a 10 años han subido al 5,10% y el bitcoin ha caído hasta los 84.330 dólares.&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img6.s3wfg.com/web/img/images_uploaded/3/e/wall-street-finit-en-ordre-disperse_rsz.jpg" type="image/jpeg" length="378674" />
-      <link>https://www.bolsamania.com/noticias/mercados/wall-street-miercoles-23-septiembre-2026-euforia-ia--23650340.html</link>
-      <author>redaccion@bolsamania.com (Aitor Pereira)</author>
-      <category>Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/cierre-en-wall-street-dow-jones--068-sp-500--075-y-nasdaq--113--23656828.html</guid>
-      <pubDate>Wed, 23 Sep 2026 22:05:44 +0200</pubDate>
-      <title> Cierre en Wall Street: Dow Jones (-0,68%) S&amp;P 500 (-0,75%) y Nasdaq (-1,13%) </title>
-      <description> </description>
-      <content:encoded>  </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="378674" />
-      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/cierre-en-wall-street-dow-jones--068-sp-500--075-y-nasdaq--113--23656828.html</link>
-      <author>redaccion@bolsamania.com (Alberto Lite)</author>
-      <category>Última Hora Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/internacional/pezeshkian-promete-en-la-onu-que-iran-aguantara-hasta-el-ultimo-aliento-y-carga-contra-eeuu-e-israel--23656612.html</guid>
-      <pubDate>Wed, 23 Sep 2026 21:43:28 +0200</pubDate>
-      <title> Pezeshkian promete en la ONU que Irán aguantará "hasta el último aliento" y carga contra EEUU e Israel </title>
-      <description>El presidente iraní, Masoud Pezeshkian, pronunció el miércoles ante la Organización de Naciones Unidas un desafiante discurso en el que culpó a Estados Unidos e Israel de alimentar la inestabilidad mundial y les acusó de lanzar ataques ilegales contra civiles e infraestructuras de su país. Además, prometió que su país seguirá respondiendo &amp;ldquo;hasta nuestro último aliento&amp;rdquo;. </description>
-      <content:encoded> &lt;p&gt;En su intervención, el presidente&lt;strong&gt; denostó el calificativo de terrorista con el que los definió el martes Donald Trump, quien amenazó con devastar el país si no se alcanzaba un acuerdo&lt;/strong&gt;. &amp;ldquo;El presidente de Estados Unidos nos describió como terroristas. Nosotros hemos sido víctimas del terrorismo&amp;rdquo;, afirmó Pezeshkian, según declaraciones recogidas por la CNBC.&lt;/p&gt;
-&lt;p&gt;Pezeshkian, quien se convirtió el primer líder en guerra con EEUU en hablar en la ONU, negó que Irán sea una fuente de inestabilidad. "¿Somos nosotros la fuente de la inestabilidad? Solo buscamos vivir de manera independiente", aseveró el presidente iraní, quien ilustró su intervención con fotos de las consecuencias del ataque contra la escuela Minab, en el sur de Irán, en las que un bombardeo estadounidense a más de 150 personas, incluidos aproximadamente 120 niños.&lt;/p&gt;
-&lt;h3&gt;TRUMP PROMETE ANIQUILAR, PERO VE EL PACTO POSIBLE&lt;/h3&gt;
-&lt;p&gt;Un día antes de la intervención de Pezeshkian, el propio Donald Trump&lt;strong&gt; había tomado la tribuna de la Asamblea General de la ONU para defender la guerra en Oriente Medio&lt;/strong&gt; y lanzar una nueva amenaza contra Irán. El mandatario estadounidense aseguró que se enfrenta a "una gran decisión": permitir que el país persa alcance un acuerdo que le posibilite reconstruirse, o &lt;strong&gt;bien "aniquilar" a la República Islámica "rápidamente, sin darles jamás la oportunidad de volver a matar y destruir personas y países".&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A pesar del tono beligerante, Trump&lt;strong&gt; se mostró optimista sobre las posibilidades de cerrar un pacto con Teherán en un futuro próximo&lt;/strong&gt;. El presidente vinculó ese cálculo a su propia agenda electoral, ya que busca reforzar su imagen de cara a las elecciones de mitad de mandato en Estados Unidos.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;"Creo que llegaremos a un acuerdo justo después de las elecciones, porque no tiene sentido que no lo hagan. Están esperando a ver cómo me va en las elecciones de mitad de mandato"&lt;/strong&gt;, afirmó, dando a entender que Irán estaría condicionando sus movimientos diplomáticos al resultado de los comicios estadounidenses.&lt;/p&gt; </content:encoded>
-      <enclosure url="http://img2.s3wfg.com/web/img/images_uploaded/8/0/massoud-pezeshkian.jpg" type="image/jpeg" length="400186" />
-      <link>https://www.bolsamania.com/noticias/internacional/pezeshkian-promete-en-la-onu-que-iran-aguantara-hasta-el-ultimo-aliento-y-carga-contra-eeuu-e-israel--23656612.html</link>
-      <author>redaccion@bolsamania.com (Bolsamanía)</author>
-      <category>Internacional</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--063-sp-500--076-y-nasdaq--113--23656444.html</guid>
-      <pubDate>Wed, 23 Sep 2026 21:21:19 +0200</pubDate>
-      <title> Wall Street: Dow Jones (-0,63%) S&amp;P 500 (-0,76%) y Nasdaq (-1,13%) </title>
-      <description> </description>
-      <content:encoded>  </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="400186" />
-      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/wall-street-dow-jones--063-sp-500--076-y-nasdaq--113--23656444.html</link>
-      <author>redaccion@bolsamania.com (Alberto Lite)</author>
-      <category>Última Hora Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/pulsos-mercado/el-plan-de-apoyo-a-los-franquiciados-de-mcdonalds-no-convence-al-mercado--23656344.html</guid>
-      <pubDate>Wed, 23 Sep 2026 21:04:10 +0200</pubDate>
-      <title> El plan de choque de McDonald's para combatir la inflación no convence al mercado </title>
-      <description>Las acciones de McDonald's en Wall Street caen este miércoles un 5,14% tras presentar un plan de inversiones por valor de 8.500 millones de dólares destinado a aliviar la carga de sus franquiciados y que se traducirá en una renovación de sus restaurantes y una reducción de los alquileres. </description>
-      <content:encoded> &lt;p&gt;Las palabras del CEO del gigante de la comida rápida, Chris Kempczinski, en una entrevista con la CNBC han asustado al mercado. Kempczinski ha advertido de que&lt;strong&gt; prevé que el estancamiento del tráfico de clientes continúe y ha señalado que la elevada inflación seguirá lastrando al sector de la restauración&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;"Una de las cosas que he comentado a nuestro equipo es que tenemos que dejar de hablar de que este es un entorno difícil y limitarnos a decir que este es el entorno", señaló el directivo quien afirmó no espera que las cosas cambien.&lt;/p&gt;
-&lt;p&gt;La cadena de hamburgueserías&lt;strong&gt; registró un crecimiento de las ventas comparables en Estados Unidos de apenas el 0,8% en el último trimestre, mientras que el tráfico en sus restaurantes del país disminuyó&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Asimismo, los&lt;strong&gt; consumidores han reducido la frecuencia con la que comen fuera de casa&lt;/strong&gt;, en respuesta a las mayores tarifas de los menús y al encarecimiento de productos como la gasolina y los alimentos. Entre agosto de 2025 y julio de 2026, los operadores del sector encuestados por la National Restaurant Association registraron una caída neta del tráfico de clientes todos los meses salvo uno.&lt;/p&gt;
-&lt;h3&gt;LA CARNE, CADA VEZ MÁS CARA&lt;/h3&gt;
-&lt;p&gt;Otro de los elementos que lastran al sector son los &lt;strong&gt;precios de la carne de vacuno&lt;/strong&gt;, que casi se ha duplicado en los últimos cinco años en los principales mercados de la compañía. Asimismo, el CEO indicó qu&lt;strong&gt;e otros gastos, como los laborales y los de construcción, también han aumentado, lo que ejerce una mayor presión sobre los márgenes&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;"En todos los ámbitos, estamos viendo que la inflación es persistente", afirmó Kempczinski, quien señaló que esta&lt;strong&gt; "no solo es alta en Estados Unidos, sino en todo el mundo"&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Por último, &lt;strong&gt;el CEO indicó que McDonald&amp;rsquo;s se está centrando en captar clientes de sus competidores&lt;/strong&gt;. "Lo más importante que hay que hacer en un entorno como este es&lt;strong&gt; ganar cuota de mercado&lt;/strong&gt;", afirmó, a la vez que indicó que "hay que ser capaz de arrebatar crecimiento a los competidores".&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt; </content:encoded>
-      <enclosure url="http://img6.s3wfg.com/web/img/images_uploaded/5/3/mcdonalds_restaurante.jpg" type="image/jpeg" length="729871" />
-      <link>https://www.bolsamania.com/noticias/pulsos-mercado/el-plan-de-apoyo-a-los-franquiciados-de-mcdonalds-no-convence-al-mercado--23656344.html</link>
-      <author>redaccion@bolsamania.com (Bolsamanía)</author>
-      <category>Pulsos de mercado</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/empresas/colonial-sfl-y-vita-group-crean-una-joint-venture-europea-de-residencias-de-estudiantes-premium--23656068.html</guid>
-      <pubDate>Wed, 23 Sep 2026 20:19:51 +0200</pubDate>
-      <title> Colonial SFL y Vita Group crean una &amp;#8216;joint venture&amp;#8217; europea de residencias de estudiantes premium </title>
-      <description>Colonial SFL y Vita Group han anunciado este miércoles que han suscrito una alianza para crear una plataforma líder europea de alojamiento premium para estudiantes y flex living, combinando la experiencia de Colonial SFL en transformación urbana prime con las capacidades especializadas de Vita Group en comercialización y gestión de alojamiento para estudiantes. </description>
-      <content:encoded> &lt;p&gt;La plataforma,&lt;strong&gt; constituida como joint venture al 50%, nace con la aportación progresiva hasta 2028 de tres activos urbanos de alta calidad en Madrid,&lt;/strong&gt; que suman &lt;strong&gt;más de 92.000 metros cuadrados y 2.200 camas&lt;/strong&gt; y alcanzarán un valor estabilizado a largo plazo de aproximadamente &lt;strong&gt;1.000 millones de euros.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Esta estructura, ha explicado Colonial SFL,&lt;strong&gt; permitirá generar rentas predecibles y estables de manera inmediata&lt;/strong&gt;, reforzando la liquidez de Colonial SFL, así como el crecimiento futuro a través de nueva operaciones de consolidación y de incorporación de capital de terceros.&lt;/p&gt;
-&lt;p&gt;En una primera fase, Vita Group aporta Vita Student Oria South, que ha abierto sus puertas en septiembre de 2026 y ya está registrando una fuerte demanda. Oria North se incorporará en 2027, mientras que Santa Hortensia, uno de los proyectos de transformación urbana Alpha X de Colonial SFL, se aportará tras su entrega, prevista para 2028.&lt;/p&gt;
-&lt;p&gt;La &lt;strong&gt;integración de los tres activos en una única plataforma genera una mayor masa crítica y una posición comercial más sólida que la que podría alcanzar cada activo individualmente,&lt;/strong&gt; y permitirá asimismo a Colonial SFL complementar su cartera con una clase de activos urbanos caracterizada por flujos de caja por rentas resilientes y atractivos fundamentales de crecimiento a largo plazo, manteniendo la coherencia con su estrategia prime.&lt;/p&gt;
-&lt;p&gt;La operación en su conjunto, considerando el capex de desarrollo ya previsto para Santa Hortensia,&lt;strong&gt; permite alcanzar una TIR sin apalancamiento a siete años de aproximadamente el 10%, significativamente superior a las previsiones iniciales de inversión para el activo&lt;/strong&gt;. La operación se ha estructurado para que sea aumentativa en beneficio EPRA y EPRA NTA, preservando al mismo tiempo la disciplina financiera mediante una mejora del EPRA LTV a medio plazo.&lt;/p&gt;
-&lt;p&gt;Colonial ha explicado que&lt;strong&gt; el alojamiento para estudiantes cuenta con sólidos fundamentales en toda Europa, respaldados por el crecimiento de la demanda estudiantil y una insuficiencia estructural de oferta&lt;/strong&gt;. En este contexto, España es el país europeo más demandado entre los estudiantes Internacionales, mientras que Madrid es la ciudad más solicitada de España.&lt;/p&gt;
-&lt;p&gt;Así, Madrid presenta una&lt;strong&gt; clara oportunidad para el alojamiento premium para estudiantes de alta calidad&lt;/strong&gt;, con una importante demanda no cubierta que se refleja en la existencia de solo 8 camas en residencias de estudiantes construidas específicamente para este uso por cada 100 estudiantes, frente a las 13 de media en Europa.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Esta operación refleja muy bien nuestro enfoque en materia de asignación de capital y creación de valor. A través de Alpha X identificamos el uso de&lt;strong&gt; mayor valor para Santa Hortensia, y nuestra alianza con Vita nos permite materializar ese valor antes de la finalización del proyecto, reforzar su posicionamiento comercial y mejorar su perfil de riesgo&lt;/strong&gt;, al tiempo que creamos una plataforma líder de alojamiento premium en Madrid", ha indicado el CEO de Colonial, Pere Viñolas.&lt;/p&gt;
-&lt;p&gt;Por su parte, Mark Stott, CEO de Vita Group, ha señalado que esta plataforma &lt;strong&gt;"aúna capacidades complementarias para desarrollar conceptos residenciales de éxito en los principales mercados europeos"&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt; </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/9/6/colonialcbpeque1.jpg" type="image/jpeg" length="3269" />
-      <link>https://www.bolsamania.com/noticias/empresas/colonial-sfl-y-vita-group-crean-una-joint-venture-europea-de-residencias-de-estudiantes-premium--23656068.html</link>
-      <author>redaccion@bolsamania.com (Alberto Lite)</author>
-      <category>Empresas</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-mcdonalds--610-y-alphabet--373-son-los-valores-que-mas-retroceden--23655658.html</guid>
-      <pubDate>Wed, 23 Sep 2026 19:12:29 +0200</pubDate>
-      <title> Dow Jones: McDonald's (-6,10%) y Alphabet (-3,73%) son los valores que más retroceden </title>
-      <description> </description>
-      <content:encoded>  </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="3269" />
-      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-mcdonalds--610-y-alphabet--373-son-los-valores-que-mas-retroceden--23655658.html</link>
-      <author>redaccion@bolsamania.com (Alberto Lite)</author>
-      <category>Última Hora Mercados</category>
-    </item>
-    <item>
-      <guid>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-salesforce-284-y-boeing-186-son-los-valores-que-mas-suben--23655656.html</guid>
-      <pubDate>Wed, 23 Sep 2026 19:11:38 +0200</pubDate>
-      <title> Dow Jones: Salesforce (+2,84%) y Boeing (+1,86%) son los valores que más suben </title>
-      <description> </description>
-      <content:encoded>  </content:encoded>
-      <enclosure url="http://img3.s3wfg.com/web/img/images_uploaded/." type="image/jpeg" length="3269" />
-      <link>https://www.bolsamania.com/noticias/mercados-ultima-hora/dow-jones-salesforce-284-y-boeing-186-son-los-valores-que-mas-suben--23655656.html</link>
-      <author>redaccion@bolsamania.com (Alberto Lite)</author>
-      <category>Última Hora Mercados</category>
     </item>
   </channel>
 </rss>
